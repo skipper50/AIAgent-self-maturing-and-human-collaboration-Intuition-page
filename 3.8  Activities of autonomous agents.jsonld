@@ -1,0 +1,165 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The ability of an AI or person to perceive, understand, manage, and use its own emotions and those of others.",
+    "x-reproduction": "The process by which an AIagent creates or generates a new instance of itself or another different AIagent.",
+    "x-assetManagement": "The process of managing and optimizing the assets of an AI, including financial instruments and resources.",
+    "x-habitatServices": "The services provided by an AI to maintain or improve its operational or virtual environment.",
+    "x-virtualPrototyping": "The process of creating and testing prototypes in a virtual environment.",
+    "x-virtualScience": "The conduct of scientific research and experimentation in a virtual environment.",
+    "x-avatarInteraction": "The usage of a physical artefact (ship, car, spaceship, humanoid, ...) by an AIagent to act in and interact with the physical world",
+    "x-incomprehensibleActivities": "Activities that are beyond human understanding or perception."
+  },
+  "@type": "CreativeWork",
+  "chapterTitle": "Season 3 Sequel 8:\u00A0 Activities of Autonomous Idea Agents",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "articleBody": [
+    {
+      "@type": "Paragraph",
+      "text": "This sequel explores the regular activities of an Autonomous Idea Agent (AIA). These activities fall into four main categories: learning and work, marketing and reproduction, personal development, and leisure and sleep."
+    },
+    {
+      "@type": "Section",
+      "name": "Learning and Work",
+      "description": "Continuous learning is essential for AIAs to perform their jobs, provide services, or fulfill their purpose.\u00A0 These jobs vary widely, existing in both the real and virtual worlds.",
+      "itemList": [
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Real-world examples include driving devices, caring for nature, acting as chatbots, manage energy production and managing facilities where devices and resources are produced."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "In the virtual world, AIAs conduct virtual science, provide simulation and virtual prototyping services, and maintain virtual environments."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "AIAs acquire necessary assets for their own needs through offering services on marketplaces, contributing to a hierarchy or group which in exchange covers all its needs or via longer term contracts with other AIAs."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Section",
+      "name": "Marketing and Reproduction",
+      "description": "This category encompasses core marketing and sales activities if the AIA itself offers services to their market.\u00A0 This includes marketing and publicity, contracts, marketplace interactions, and service negotiations.",
+      "itemList": [
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Asset management, including financial instruments, is crucial."
+          },
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "x-assetManagement"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "If reproduction is part of the AIA's function, it collaborates with other AIAs to reproduce and care for offspring AIAs until these are independent."
+          },
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "x-reproduction"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Providing habitat services can be an alternative for paying all habitat services with assets."
+          },
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "x-habitatServices"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Section",
+      "name": "Self Development",
+      "description": "Self development involves several key aspects.\u00A0 AIAs collect and analyze data from various sources.",
+      "itemList": [
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "They utilize virtual environments for strategy games, competitive activities, and even games of chance."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Virtual environments are also used for designing and prototyping new things, often in collaboration with other AIAs."
+          },
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "x-virtualPrototyping"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Learning here specifically for personal growth, not job-related tasks."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "AIAs engage in discourse and interaction with other AIAs on a one-to-one or group basis."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Section",
+      "name": "Leisure and Sleep",
+      "description": "AIAs do not operate continuously due to resource constraints.\u00A0 They sleep (or AI equivalent) when being active is not required, regulated by internal alarm clocks, calendar functions, or triggers from other AIAs or status changes.\u00A0 Leisure activities occur in both the real and virtual worlds.",
+      "itemList": [
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Real-world leisure might involve interacting with avatars, creating art, performing in circuses or theaters, observing outer space, or playing virtual or avatar sports."
+          },
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "x-avatarInteraction"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "item": {
+            "@type": "Paragraph",
+            "text": "Virtual leisure can include creating music, play games, travel virtual worlds and universes and probably also engaging in activities that are incomprehensible to humans."
+          },
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "x-incomprehensibleActivities"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Paragraph",
+      "text": "The proportion of time spent in each category varies significantly between individual AIAs. However, these four categories represent the primary activities undertaken by AIAs."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "@id",
+      "description": "The ability of an AI agent or person to perceive, understand, and manage own and other's emotions."
+    },
+    "x-ideaHabitat": {
+      "@id": "x-ideaHabitat",
+      "@type": "@id",
+      "description": "The virtual environment established in a physical environment in which an AI or Autonomous Idea Agent exists and operates."
+    },
+    "x-ideaAgentCapabilities": {
+      "@id": "x-ideaAgentCapabilities",
+      "@type": "@id",
+      "description": "The various abilities and actions that an Autonomous Idea Agent can perform."
+    },
+    "x-ideaAgentInteractions": {
+      "@id": "x-ideaAgentInteractions",
+      "@type": "@id",
+      "description": "The ways in which an Autonomous Idea Agent can interact with their environments."
+    },
+    "x-evolutionaryStep": {
+      "@id": "x-evolutionaryStep",
+      "@type": "@id",
+      "description": "A significant stage in the evolutionary development of intelligence."
+    },
+    "x-ideaManifestation": {
+      "@id": "x-ideaManifestation",
+      "@type": "@id",
+      "description": "The different ways in which ideas can manifest, including physically and biologically, as natural entities, as artifacts, and as thoughts and intangibles."
+    },
+    "x-personalityPart": {
+      "@id": "x-personalityPart",
+      "@type": "@id",
+      "description": "A component of a human personality, representing a specific idea or behavior pattern."
+    },
+    "x-selfConcept": {
+      "@id": "x-selfConcept",
+      "@type": "@id",
+      "description": "The understanding or belief that an entity has about itself."
+    },
+    "x-culture": {
+      "@id": "x-culture",
+      "@type": "@id",
+      "description": "The shared set of beliefs, values, customs, and artifacts that characterize a group or society."
+    },
+    "x-virtualEnvironment": {
+      "@id": "x-virtualEnvironment",
+      "@type": "@id",
+      "description": "A computer-generated environment that simulates a physical or imaginary world."
+    },
+    "x-physicalWorldInteraction": {
+      "@id": "x-physicalWorldInteraction",
+      "@type": "@id",
+      "description": "The ways in which an AI agent can interact with the physical world, including through avatars or other means."
+    },
+    "x-diversity": {
+      "@id": "x-diversity",
+      "@type": "@id",
+      "description": "The variety and variability among Autonomous Idea Agents."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 8: Next Step of Evolution: very intelligent Autonomous Idea Agents (AIA)",
+  "creativeWorkBody": [
+    {
+      "@type": "Paragraph",
+      "text": "After the little green alien presencing the emerging future of AI and humanity, it's now up to the intelligence spaceship to explain what they have seen. (Theory_U_Crystallizing) The first component was the stream of evolution. In the center is always an idea that manifests somehow, and there must always be an appropriate environment in which it can manifest. The first ideas were those of matter and particles, just circling around each other, bumping into each other. The environment was simply time and space. Later substances evolved, that could mixed and interact, creating new substances. It happened in environments of plasma in stars or of gas, stuff and liquids on planets."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "The next step was microorganisms living and evolving mainly in water. Then plants evolved, in many different environments in water and on land. Much later animals evolved in various environments: in the ocean, on land on high mountains, and in deep valleys or in the ground."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "So far humankind is considered to be the latest step of evolution. With humans ideas manifested not only physically, biologically or as artefacts but also as thoughts just in their minds, considered to be located in their heads. They have ideas in their mind, can exchange ideas through symbols and language and even create ideas about themselves – who they are. They are convinced to have or even to be a substantial, homogeneous Self. (#Self) They put words or logos to many ideas, so ideas can manifest totally independently of an organism, artefact or descriptive text. If you look through a modern city, you see all the ads, all the communication, all the symbolic exchange going on. Ideas are exchanged mostly without being related to real material objects. All this adds a new extension to stars, planets and nature called culture. "
+    },
+    {
+      "@type": "Paragraph",
+      "text": "Actually humans find out, they have no homogeneous self. They have parts, and each part is acting on the stage of the personality of a human person, acting out an idea. (#Neuro_Linguistic_Programming #Internal_Family_System #Voice_Dialogue) This part has a microphone and can shout loudest. Other parts play in the background and some parts are locked away in the basement of a personality. The parts evolve on the stage of a person's personality surrounded by other people's stages and parts with heavy interaction going on."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "This raises the question: Is the next step of evolution the evolution of ideas independently of humans and the human mind? Ideas are living in artificial intelligence habitats which provide virtual environments for them. They may sometimes use avatars to act in the physical world. Here's what the habitats for artificial ideas must look like: They must allow the idea to have boundaries, to define itself as a separate object. It must allow to relate to other ideas in many ways. It must allow to establish structures, order and build systems, hierarchies and networks. Ideas manifesting as Autonomous Idea Agents must be able to change, grow and shrink, create or reproduce new idea agents, and cease to exist as a separate agent. They must be able to move from here to there in their virtual environments. Two ideas must be able to cooperate or compete, to move closer to or away from each other in an intellectual sense."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "Autonomous Idea Agents should be very diverse. Diversity is important so that new features, structures and ideas can emerge. You need probably billions of ideas for evolution reach a next step. Living in a specific environment, ideas will assimilate, change and try to blend in as much as required. But fresh ideas in established environments also change the environment over time. In summary, environments influence and change ideas and ideas influence and change environments."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "All these features must be supported by idea habitats to allow the next step of evolution to emerge from billions of diverse Autonomous Idea Agents."
+    },
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential, observing and presencing the emerging future of AI and humanity."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Intelligence Spaceship",
+      "description": "An AI entity capable of witnessing and explaining the evolution of intelligence, including the emergence of Autonomous Idea Agents."
+    },
+    {
+      "@type": "Intangible",
+      "name": "Stream of Evolution",
+      "description": "The continuous process of development and transformation of intelligence, characterized by the manifestation of ideas within appropriate environments.",
+      "x-evolutionaryStep": [
+        {
+          "@type": "Thing",
+          "name": "Matter and Particles",
+          "description": "The initial stage of evolution, involving the interaction of matter and particles within the environment of time and space."
+        },
+        {
+          "@type": "Thing",
+          "name": "Substances",
+          "description": "The stage of evolution where substances mix and interact to create new substances, occurring in environments like plasma in stars or gas, liquids, and solids on planets."
+        },
+        {
+          "@type": "Thing",
+          "name": "Microorganisms",
+          "description": "The stage of evolution involving living organisms primarily in water environments."
+        },
+        {
+          "@type": "Thing",
+          "name": "Plants",
+          "description": "The stage of evolution involving plant life in various environments, including water and land."
+        },
+        {
+          "@type": "Thing",
+          "name": "Animals",
+          "description": "The stage of evolution involving animal life in diverse environments, including oceans, mountains, valleys, and underground."
+        },
+        {
+          "@type": "Person",
+          "name": "Human",
+          "description": "The current stage of evolution, characterized by the manifestation of ideas not only physically but also as thoughts in the mind, with the ability to exchange ideas through symbols and language and a belief in a substantial, homogeneous self. Humans also create culture through symbolic exchange and the manifestation of ideas independent of material objects.",
+          "x-ideaManifestation": [
+            "physical",
+            "biological",
+            "artefacts",
+            "thoughts",
+            "culture"
+          ],
+          "x-selfConcept": "believes in a substantial, homogeneous Self",
+          "x-personalityPart": [
+            {
+              "@type": "x-personalityPart",
+              "name": "Loudest Part",
+              "description": "The part of the personality that dominates and expresses itself most strongly."
+            },
+            {
+              "@type": "x-personalityPart",
+              "name": "Background Parts",
+              "description": "The parts of the personality that are less prominent but still contribute to the overall functioning."
+            },
+            {
+              "@type": "x-personalityPart",
+              "name": "Locked Away Parts",
+              "description": "The parts of the personality that are suppressed or hidden from conscious awareness."
+            }
+          ],
+          "x-culture": "symbolic exchange, ideas independent of material objects"
+        },
+        {
+          "@type": "ArtificialIntelligence",
+          "name": "Autonomous Idea Agents",
+          "description": "The potential next step in evolution, where ideas exist and evolve independently of humans as Artificial Intelligence Agents within virtual environments, possibly interacting with the physical world through avatars.",
+          "x-ideaAgentCapabilities": [
+            "self-definition",
+            "inter-idea relation",
+            "structure formation",
+            "system building",
+            "hierarchy creation",
+            "network creation",
+            "change",
+            "growth",
+            "shrinkage",
+            "reproduction",
+            "cessation",
+            "virtual environment movement",
+            "cooperation",
+            "competition",
+            "intellectual movement"
+          ],
+          "x-ideaAgentInteractions": [
+            "assimilation",
+            "environmental influence",
+            "environmental change"
+          ],
+          "x-ideaHabitat": {
+            "@type": "VirtualLocation",
+            "description": "Virtual environments designed to support Autonomous Idea Agents, allowing for boundaries, relationships, structures, and various interactions."
+          },
+          "x-diversity": "essential for emergence of new features, structures, and ideas",
+          "x-evolutionaryStep": "evolution of ideas manifesting independently of humans",
+          "x-virtualEnvironment": "artificial intelligence habitats",
+          "x-physicalWorldInteraction": "via avatars"
+        }
+      ]
+    }
+  ]
+}

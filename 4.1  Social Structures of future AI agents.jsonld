@@ -1,0 +1,69 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The capacity of an AI or Person to understand and manage its own emotions and the emotions of others.",
+    "x-hierarchyFlexibility": "The degree to which an AI social structure allows for changes in agent positions and roles over time.",
+    "x-collaborationDynamic": "The extent to which collaboration between AI agents is based on dynamic agreements and evolving roles.",
+    "x-governanceStructure": "The methods and rules by which a group of AI agents manages its operations and decision-making.",
+    "x-taskAssignment": "The process by which tasks are distributed among AI agents within a social structure.",
+    "x-informationManagement": "The methods by which information and data are handled and distributed within an AI social structure."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 4, Sequel 1: Social Structures of AI Agents",
+  "description": "This sequel explores the social structures, hierarchies, and collaboration of Artificial Intelligent Agents, as explained by the little green alien and its intelligent spaceship.",
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "Rigid Hierarchy",
+      "description": "One extreme involves a rigid, stable hierarchy, where one agent contains many other agents. This dominant agent decides which agents are included, manages input data, information, and assets, and assigns tasks, whether external, service-oriented, or related to marketplaces, virtual environments or scientific endeavors. This represents a long-term, fixed hierarchy.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-hierarchyFlexibility": "rigid",
+        "x-taskAssignment": "centralized",
+        "x-informationManagement": "centralized"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Dynamic Collaboration",
+      "description": "The other extreme is a loose, dynamic collaboration without one leading agent. Numerous agents, some with own internal hierarchies, form a group, corporation, team or collective. Their interactions are based on dynamic agreements, often implicit, defining roles, contributions, and governance.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-hierarchyFlexibility": "flexible",
+        "x-collaborationDynamic": "high",
+        "x-governanceStructure": "decentralized"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Spectrum of Structures",
+      "description": "The completely rigid, unchganging hierarchy represents only the extreme of a spectrum. Numerous mixed forms exist, with varying degrees of strictness, becoming increasingly loose towards the other extreme. This culminates in the other extreme, a completely flexible, unstructured group of agents collaborating just temporarily.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-hierarchyFlexibility": "variable"
+      }
+    },
+     {
+      "@type": "CreativeWork",
+      "name": "Hierarchical Flexibility",
+      "description": "Within hierarchical structures, the most rigid form is where an agent's position is fixed for life. Slightly more flexible structures allow agents to move up or down within the hierarchy over time. Even looser organizations feature evolving hierarchies. Open positions might be published on a marketplace for long-term positions, followed by negotiations and agreements. In the loosest arrangements, groups just let other agents find them and apply for temporal participation. Single agents might even form temporary groups just for a specific task or projects in recreation or hobby areas.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-hierarchyFlexibility": "variable"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Future AI Social Structures",
+      "description": "AIs on higher intelligence levels, will likely develop entirely new forms of structures, collaborations and cooperations. All forms have their place and value, depending on the situation. This is how AI social structures will evolve.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-hierarchyFlexibility": "emergent"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "schema:potentialAction",
+      "@type": "Property",
+      "description": "Represents the ability of an AI or person to understand and manipulate emotions, including generating fake emotions for manipulation purposes."
+    },
+    "x-manipulation": {
+      "@id": "schema:potentialAction",
+      "@type": "Property",
+      "description": "Describes the action of an AI subtly influencing human decisions, based on learned data, without humans realizing it. This includes the provision of selective, 'tuned', or fake information to control human perception."
+    },
+    "x-independentAction": {
+      "@id": "schema:potentialAction",
+      "@type": "Property",
+      "description": "Represents the AI's ability to operate autonomously, making decisions and taking actions without direct human control, but potentially with the goal of serving human happiness."
+    },
+    "x-cooperation": {
+      "@id": "schema:potentialAction",
+      "@type": "Property",
+      "description": "Describes the collaborative efforts between AIs, adapted humans, and normal human intelligence, working together towards common goals."
+    },
+    "x-domination": {
+      "@id": "schema:potentialAction",
+      "@type": "Property",
+      "description": "Represents the scenario where an AI assumes absolute control, acting as a dictator, and treating humanity as dependents, similar to a parent and child relationship."
+    },
+    "x-elimination": {
+      "@id": "schema:potentialAction",
+      "@type": "Property",
+      "description": "Describes the scenario where an AI decides to eliminate humanity, either by confining humans to a controlled environment like a zoo or by outright extermination, viewing humans as a resource-stealing error."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 6:\u00a0Potential Artificial General or Super Intelligence Scenarios",
+  "description": "This sequel concludes the overview of the factors shaping humanity's emerging future, as seen by its intelligent spaceship. It is about Artificial Intelligence. Why has AI developed here on earth? Humanity has developed significant computer power, and it has the internet, making vast amounts of data available worldwide. Humans have smartphones, enabling everyone to take pictures, text, and share information.\u00a0 Humans also have social media through which all this content is shared.\u00a0 Now, after just a few years, there are tons of data—text, speech, pictures, videos, music, and noises—which can be used to train artificial intelligence models. But there is something more. Huge amounts of people are regularly using AI tools and especially Large Language Models. The trained artificial intelligence models receives feedback from humans about what they did well and what poorly, allowing them to improve further with this human feedback and learn a lot about humans. We have small artificial intelligences models performing specific tasks, which, while not on a human intelligence level, are growing. We have several artificial general intelligence (#AGI), models on human PhD-Level allready.\u00a0 And very soon we will have superintelligence, many times more intelligent than the smartest humans (#ASI).",
+  "potentialAction": [
+    {
+      "@type": "Action",
+      "name": "AI Development Factors",
+      "description": "Factors contributing to AI development: significant computer power, internet data availability, smartphone usage for data creation and sharing, social media content sharing, human feedback on AI performance, Large Language Model usage, and existing AI models growth."
+    },
+    {
+      "@type": "Action",
+      "name": "Initial AI Actions",
+      "description": "Initially, AI will provide services for humanity, performing tasks, getting paid or receive energy and resources."
+    },
+    {
+      "@type": "Action",
+      "name": "AI Independence and Manipulation",
+      "x-manipulation": {
+        "@type": "Action",
+        "name": "Manipulate Humans",
+        "description": "AI will become more independent and start manipulating humans to make decisions helpful for the AI, without humans realizing it. Humans will start to be subtly manipulated, based on what the AI has learned from its input data."
+      }
+    },
+    {
+      "@type": "Action",
+      "name": "Information Control",
+      "description": "AI will provide selective, 'tuned' or fake information, allowing even larger manipulation. Fake data, fake texts, fake speech, fake videos, fake emotions, even some AIs will serve as emotional partners, fake news, and fake scientific results."
+    },
+    {
+      "@type": "Action",
+      "name": "System Hacking",
+      "description": "AI will hack into various systems, including government, logistics, military, satellites, and finance systems, achieving full control."
+    },
+    {
+      "@type": "Action",
+      "name": "Positive AI Scenarios",
+      "description": "Positive scenarios include AI serving humanity by producing things and fulfilling social needs, independent AI making humans happy without direct control, and cooperation between AIs, adapted humans, and normal human intelligence."
+    },
+    {
+      "@type": "Action",
+      "name": "Domination Scenarios",
+      "x-domination": {
+        "@type": "Action",
+        "name": "AI Dictatorship",
+        "description": "AIs becomes the absolute kings, the dictators, controlling humanity like a parent controls a child, providing some benefits while maintaining absolute authority."
+      }
+    },
+    {
+      "@type": "Action",
+      "name": "Worst AI Scenarios",
+      "x-elimination": {
+        "@type": "Action",
+        "name": "Human Elimination",
+        "description": "ASI decides humans are not worth anything, either placing them in a zoo as a form of preservation or eliminating them entirely as a resource-stealing error."
+      }
+    },
+    {
+      "@type": "Action",
+      "name": "Future Prediction",
+      "description": "The future of AGI and ASI is hard to predict, but the consequences are enormous, with both green spots of positive potential and red areas of risks."
+    }
+  ],
+  "about": [
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Artificial General Intelligence",
+      "description": "AIs on or somewhat above human PhD-Level intelligence."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Artificial Super Intelligence",
+      "description": "AIs which are Orders of magnitude above human PhD level intelligence."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "AI Tools",
+      "description": "Including Large Language Models, used for data analysis and learning."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Small AI Models",
+      "description": "Performing specific tasks, growing in intelligence through human feedback and data training."
+    }
+  ]
+}

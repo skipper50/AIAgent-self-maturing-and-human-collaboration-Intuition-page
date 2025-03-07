@@ -1,0 +1,83 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-autopoiesis": {
+      "@id": "x-autopoiesis",
+      "@type": "@id",
+      "description": "The ability of a system to self-produce and maintain itself by its own activities."
+    },
+    "x-systemSpecificLanguage": {
+      "@id": "x-systemSpecificLanguage",
+      "@type": "@id",
+      "description": "A language or communication protocol unique to a particular social system."
+    },
+    "x-interSystemTranslation": {
+      "@id": "x-interSystemTranslation",
+      "@type": "@id",
+      "description": "The process of translating between different social systems, including languages, dialects, values, and thinking patterns."
+    },
+    "x-dynamicSocialSystem": {
+      "@id": "x-dynamicSocialSystem",
+      "@type": "@id",
+      "description": "A social system characterized by continuous change, rapid self-production, and distributed agency."
+    },
+    "x-systemInteractionPoint": {
+      "@id": "x-systemInteractionPoint",
+      "@type": "@id",
+      "description": "A designated point or mechanism for interaction between different social systems."
+    }
+  },
+  "@type": "CreativeWork",
+  "chapterTitle": "Season 4 Sequel 3",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "creativeWorkBody": [
+    {
+      "@type": "Paragraph",
+      "text": "This sequel explores the other extreme, a social system (#Social_System). Here, we encounter a super flexible, permanently changing, and rapidly self-producing social system (#autopoiesis). These social systems don't have a single AI leader. Instead, subsystems and subsystems, through the interactions of their constituent agents, establish and continuously reshape the system. This dynamic nature allows agents to participate in multiple systems concurrently or over their lifecycles, moving between them as needed."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "The system's rate of change, including its function and content, is extremely rapid. Each new agent introduced into the system has the potential to alter it. Communication or interaction between agents is highly system-specific. For example, 'black agents' in the black social system might use their specific type of 'black language,' while other systems use other specific 'not black' languages. Inter-system interaction requires a form of translation, encompassing not just language and dialects but also thinking patterns, values, and other factors. These systems are more akin to processes than fixed entities like the rigid hierarchy of the previous example."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "Imagine a person blowing soap bubbles. Each bubble establishes and grows the bubble system, and as more bubbles are blown, it grows. At the end the person blowing the soap bubbles becomes also part of this greater system and so the system grows itself. This is a very simplified metaphore for a self producing system, where through its own activities, it re-establishes itself — a process known as autopoiesis. In this process, the system's activities create and sustain the system."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "Let's assume a 'black system' with intense internal interaction. External systems or agents have limited interaction with the black system, due to limited access and different languages, dialects, values and thinking styles. In another example, a black system interacts with other systems, but this interaction is limited to specific connection points, represented by linking circles that facilitate translation or even institutionalize the interaction between different social systems."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "This model of social systems represents the other extreme of AIA collaboration. In reality, systems and hierarchies fluctuate between these extremes, exhibiting various combinations and variations."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "x-dynamicSocialSystem",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "x-autopoiesis",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "x-systemSpecificLanguage",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "x-interSystemTranslation",
+      "value": true
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "x-systemInteractionPoint",
+      "value": true
+    }
+  ]
+}

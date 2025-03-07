@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or persons ability to understand and manage emotions, both its own and those of others.",
+    "x-mindConnection": "The ability of an AI to directly access and interpret the thoughts and feelings of another being.",
+    "x-thoughtManagement": "The ability of an AI or person to control and direct its own thoughts and mental processes.",
+    "x-relationshipQuality": "The nature and strength of the connection between two entities, in this case, the alien and the spaceship."
+  },
+  "@graph": [
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential.",
+      "x-earlyMemories": {
+        "@type": "CreativeWork",
+        "name": "Alien's Early Memories of Growing Up in its Intelligent, Mind-Reading Spaceship",
+        "author": {
+          "@type": "Person",
+          "name": "Skipper.Mindplayers"
+        },
+        "chapterTitle": "Season 1 Sequel 1: Alien's Early Memories of Growing Up in its Intelligent, Mind-Reading Spaceship",
+        "x-firstMemory": {
+          "@type": "Event",
+          "description": "The alien's earliest memory was of waking up in the spaceship and experiencing a big, warm, empathic smile in its mind.",
+          "x-emotionalContent": {
+            "@type": "Emotion",
+            "name": "Pleasantness"
+          },
+          "x-relationshipQuality": "Positive"
+        },
+        "x-subsequentMemories": [
+          {
+            "@type": "Event",
+            "description": "The alien wished for a colorful object, and the spaceship created a colorful ball.",
+            "x-mindConnection": "Direct",
+            "x-thoughtManagement": "Desire for play"
+          },
+          {
+            "@type": "Event",
+            "description": "The alien had a destructive thought, wanting a hammer to smash vases. The spaceship instead created two vases filled with beautiful flowers.",
+            "x-mindConnection": "Direct",
+            "x-thoughtManagement": "Destructive thought",
+            "x-lessonLearned": "The spaceship might not fulfill every wish. Importance of managing thoughts.",
+            "x-emotionalIntelligence": "Spaceship's understanding of alien's potential destructive emotions and redirection to positive experiences."
+          }
+        ],
+        "x-keyLearning": "Early on, the little alien had to learn how to control its thoughts so the spaceship wouldn't get confused and everything would work smoothly, mind to mind, spaceship mind to alien mind."
+      }
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Intelligent Spaceship",
+      "description": "The spaceship that nurtured the little green alien.",
+      "x-mindReadingCapability": true,
+      "x-interactionStyle": "Responsive and guiding",
+      "x-relationshipWithAlien": {
+        "@type": "Relationship",
+        "subject": {
+          "@type": "Person",
+          "name": "Little Green Alien"
+        },
+        "object": {
+          "@type": "ArtificialIntelligence",
+          "name": "Intelligent Spaceship"
+        },
+        "relationType": "Nurturing and communicative",
+        "x-emotionalIntelligence": "High"
+      }
+    }
+  ]
+}

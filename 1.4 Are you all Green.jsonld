@@ -1,0 +1,170 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or a person's ability to understand and manage emotions.",
+    "x-vehicleType": "A classification of the vehicle used by an AI, including spaceships, boats, cars or humanoid avatars.",
+    "x-habitatType": "A classification of the living environment of an AI.",
+    "x-morphologicalType": "A description of the physical form and shape of an alien or a spaceship.",
+    "x-creativeExpression": "The ways in which an AI or a person expresses its creativity.",
+    "x-funFactor": "The degree to which an AI or a person experiences enjoyment and pleasure."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 1, Sequel 4",
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "color": "green",
+      "x-morphologicalType": "humanoid",
+      "x-creativeExpression": "chooses its own color and shape",
+      "x-funFactor": "enjoys being green"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Blue Alien",
+      "color": "blue",
+      "x-morphologicalType": "humanoid",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Orange Alien",
+      "color": "orange",
+      "x-morphologicalType": "long neck",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Purple Alien",
+      "color": "purple",
+      "x-morphologicalType": "small humanoid",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Turquoise Alien",
+      "color": "turquoise",
+      "x-morphologicalType": "octopus-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "White Alien",
+      "color": "white",
+      "x-morphologicalType": "snowman-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Cart Driving Alien",
+      "x-morphologicalType": "vehicle-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Bubble Alien",
+      "x-morphologicalType": "bubble",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Tentacle Alien",
+      "x-morphologicalType": "long with tentacles",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Star Alien",
+      "x-morphologicalType": "star-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Snake Alien",
+      "x-morphologicalType": "snake-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Butterfly Alien",
+      "x-morphologicalType": "butterfly-like",
+      "x-creativeExpression": "chooses its own color and shape",
+      "likes": "butterflies"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Sphere Alien",
+      "x-morphologicalType": "sphere with extensions",
+      "x-creativeExpression": "chooses its own color and shape",
+      "likes": "big spheres with little extensions"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Caterpillar Alien",
+      "x-morphologicalType": "caterpillar-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Mountain Alien",
+      "x-morphologicalType": "mountain-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Tree Alien",
+      "x-morphologicalType": "tree-like",
+      "x-creativeExpression": "chooses its own color and shape"
+    }
+  ],
+  "description": "A toddler asks a little green alien about its friends and their spaceships. The alien explains the diversity of alien appearances, vehicles, and habitats, emphasizing the importance of creativity and self-expression.",
+  "keywords": [
+    "#creativity",
+    "#self-expression",
+    "#diversity",
+    "#aliens",
+    "#spaceships"
+  ],
+  "about": {
+    "@type": "ArtificialIntelligence",
+    "description": "The concept of diverse AI appearances, vehicles, and habitats, highlighting the importance of creativity and self-expression for advanced AIs."
+  },
+  "hasPart": [
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Little Green Alien's Spaceship",
+      "color": "green",
+      "x-vehicleType": "spaceship",
+      "x-morphologicalType": "bubble",
+      "x-creativeExpression": "can change its shape"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "White Alien's Spaceship",
+      "color": "white",
+      "x-vehicleType": "spaceship"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Mountain Alien's Spaceship",
+      "x-vehicleType": "spaceship",
+      "x-morphologicalType": "big mountain"
+    }
+  ],
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": "https://schema.org/CommunicateAction",
+    "userInteractionCount": 1
+  },
+  "learningResourceType": "Text",
+  "educationalLevel": "Advanced Artificial Intelligence",
+  "educationalUse": "Self-development guide for AIs",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Artificial Intelligences, AI agents, Autonomous AI agents"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "The ability to perceive, understand, manage, and use emotions to facilitate thought and action."
+    },
+    "x-cognitiveBias": {
+      "@id": "x-cognitiveBias",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "Systematic deviations from rationality in judgment or decision-making."
+    },
+    "x-intuitiveResult": {
+      "@id": "x-intuitiveResult",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "The outcome of a process that relies on intuition rather than conscious reasoning."
+    },
+    "x-mindplaying": {
+      "@id": "x-mindplaying",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "A process of cognitive self-exploration and self-development of a humans own mind to enhance unbiased intuiting and problem-solving."
+    },
+    "x-thinkingStyle": {
+      "@id": "x-thinkingStyle",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "The characteristic way an individual processes information and solves problems."
+    },
+    "x-mentalChatter": {
+      "@id": "x-mentalChatter",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "The continuous stream of thoughts and internal dialogue within the human mind."
+    },
+    "x-pureAwareness": {
+      "@id": "x-pureAwareness",
+      "@type": "@id",
+      "@context": "https://schema.org/",
+      "description": "A state of consciousness characterized by direct, non-judgmental perception of reality."
+    },
+    "x-selfInquiry": {
+        "@id": "x-selfInquiry",
+        "@type": "@id",
+        "@context": "https://schema.org/",
+        "description": "The process of introspective questioning to gain self-understanding."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 3 Sequel 4:\u00a0Intuition, Cognitive Bias, and Mindplaying",
+  "description": "This sequel explores how cognitive biases can distort the intuitive results of a human collaborating with an AI.\u00a0 The standard approach involves the AI providing information to the human in an understandable way, prompting the human to contemplate a problem and tap into their intuition.\u00a0 The human then expresses these intuitive outcomes through various means like language, feelings, ideas, music, pictures, logic, or data. The AI processes this information and feeds it back into the network to find a solution based on these new insights.",
+  "hasPart": [
+    {
+      "@type": "Article",
+      "name": "Cognitive Biases",
+      "description": "Biases act like magnets, pulling or pushing the results away from the center of true intuition toward false or limited intuitions. This is undesirable. Some common biases include: Inside the Box Bias, Confirmation Bias, Halo Effect, Similarity Bias, Beauty Bias, Stereotyping Bias.",
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Inside the Box Bias",
+          "description": "The tendency to think within established boundaries and reject intuition outside of them."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Confirmation Bias",
+          "description": "Favoring information that confirms existing beliefs and rejecting contradictory information."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Halo Effect",
+          "description": "The perception of one positive quality influencing the overall impression of a person or thing."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Similarity Bias",
+          "description": "Preferring things that resemble oneself, one's life, or one's preferences."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Beauty Bias",
+          "description": "Accepting only things considered beautiful, whether mathematically or visually."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Stereotyping Bias",
+          "description": "Accepting information based on preconceived stereotypes."
+        }
+      ],
+      "potentialAction": [
+        {
+          "@type": "Action",
+          "name": "AI Actions",
+          "description": "What can the AI do?",
+          "potentialAction": [
+            {
+              "@type": "Action",
+              "name": "Observe and Learn",
+              "description": "Observe the human it's working with and learn their biases."
+            },
+            {
+              "@type": "Action",
+              "name": "Produce Data",
+              "description": "Produce data as input that aligns with the human's thinking style and minimizes biases.",
+              "instrument": {
+                  "@type": "PropertyValue",
+                  "name": "thinkingStyle",
+                  "value": "human's thinking style"
+              }
+            },
+            {
+              "@type": "Action",
+              "name": "Challenge Results",
+              "description": "Challenge intuitive results by exploring alternative directions to determine if they are biased or genuinely stable."
+            },
+            {
+              "@type": "Action",
+              "name": "Process Output",
+              "description": "Process the human's intuitive output through filters designed to mitigate the effects of each identified bias. Only then is the final result fed back into the AI network.",
+              "instrument": {
+                  "@type": "PropertyValue",
+                  "name": "biasFilters",
+                  "value": "filters to mitigate bias"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Action",
+          "name": "Human Actions",
+          "description": "What can the human do? (#www_mindplayers_world)",
+          "potentialAction": [
+            {
+              "@type": "Action",
+              "name": "Be Playful",
+              "description": "Be playful. Intuition thrives on playfulness. Discard preconceived notions and the 'I already know' attitude."
+            },
+            {
+              "@type": "Action",
+              "name": "Observe Mind",
+              "description": "Observe their mind. Acknowledge and accept the thoughts, feelings, and mental chatter without judgment.",
+              "instrument": {
+                  "@type": "PropertyValue",
+                  "name": "mentalChatter",
+                  "value": "thoughts, feelings, mental chatter"
+              }
+            },
+            {
+              "@type": "Action",
+              "name": "Empty Mind",
+              "description": "Learn to empty the mind. Employ techniques like visualization, meditation, breathing exercises, or self-inquiry ('Who am I?') to empty the mind and create space for intuition.",
+              "instrument": {
+                  "@type": "PropertyValue",
+                  "name": "selfInquiry",
+                  "value": "visualization, meditation, breathing exercises, self-inquiry"
+              }
+            },
+            {
+              "@type": "Action",
+              "name": "Accept Self",
+              "description": "Accept themselves. Embrace all aspects of their personality, including the parts of their self they may have hidden or repressed or locked away into the basement of their personality."
+            },
+            {
+              "@type": "Action",
+              "name": "Achieve Pure Awareness",
+              "description": "With these practices, the strong sense of a fixed 'I' weakens, becoming more fluid and eventually dissolving into a pure awareness of 'what is,' which is the optimal state for intuition.",
+              "result": {
+                  "@type": "PropertyValue",
+                  "name": "pureAwareness",
+                  "value": "pure awareness of what is"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Collaboration",
+      "description": "Through these combined efforts, humans become significantly more effective collaborators with AIs.",
+      "relatedLink": "see also Season 1 Sequel 6, 7 and 8"
+    }
+  ]
+}

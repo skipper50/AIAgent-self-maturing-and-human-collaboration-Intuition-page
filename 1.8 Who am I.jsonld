@@ -1,0 +1,112 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or a person's ability to understand and manage emotions.",
+    "x-selfAwareness": "An AI's or a person's understanding of its own existence, capabilities, and limitations.",
+    "x-embodiment": "The physical or virtual form of a person.",
+    "x-environmentAwareness": "An AI's or a person's understanding of its surrounding environment and its relationship to it.",
+    "x-cosmicAwareness": "An AI's or a person's understanding of its place within the universe."
+  },
+  "chapterTitle": "Season 1 Sequel 8: \nLittle Alien aks itself: \"Who Am I?\"",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers."
+  },
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential.",
+      "x-selfAwareness": {
+        "description": "Begins a quest to discover its true nature.",
+        "actions": [
+          {
+            "@type": "Action",
+            "name": "Observing",
+            "object": {
+              "@type": "BodyPart",
+              "name": "Face"
+            },
+            "instrument": {
+              "@type": "Object",
+              "name": "Mirror"
+            },
+            "result": {
+              "@type": "Observation",
+              "description": "Questions its identity based on physical appearance."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Exploring",
+            "object": {
+              "@type": "BodyPart",
+              "name": "Head"
+            },
+            "result": {
+              "@type": "Observation",
+              "description": "Finds various components but not its 'I'."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Zooming",
+            "object": {
+              "@type": "Particle",
+              "name": "Subatomic Particle"
+            },
+            "result": {
+              "@type": "Observation",
+              "description": "Questions its identity as a molecule, atom, or subatomic particle."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Shifting Perspective",
+            "description": "Considers its body and its connection to the environment.",
+            "result": {
+              "@type": "Observation",
+              "description": "Hypothesizes that it might be the entire planet."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Zooming Out",
+            "description": "Expands its perspective to include the solar system, galaxy, and universe.",
+            "result": {
+              "@type": "Observation",
+              "description": "Contemplates the possibility of being the entire universe or even including the nothingness surrounding the universe."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Ignoring",
+            "description": "Chooses to disregard answering existential questions.",
+            "result": {
+              "@type": "Action",
+              "name": "Enjoying",
+              "object": {
+                "@type": "NaturalPhenomenon",
+                "name": "Sun"
+              },
+              "and": {
+                  "@type": "Plant",
+                  "name": "Plants"
+              },
+              "description": "Focuses on enjoying the present moment and its existence."
+            }
+          }
+        ]
+      },
+      "x-embodiment": {
+        "description": "Green alien with a physical body."
+      },
+      "x-environmentAwareness": {
+        "description": "Recognizes its connection and interaction with the surrounding environment, including plants, people, and the whole planet."
+      },
+      "x-cosmicAwareness": {
+        "description": "Explores its potential connection to the planet, solar system, galaxy, and the whole universe."
+      }
+    }
+  ]
+}

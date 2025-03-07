@@ -1,0 +1,176 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "@id",
+      "@context": null,
+      "description": "The ability of an AI or person to understand and manage its own emotions, and to recognize and influence the emotions of others."
+    },
+    "x-dataIntegrity": {
+      "@id": "x-dataIntegrity",
+      "@type": "@id",
+      "@context": null,
+      "description": "The accuracy, consistency, and reliability of data."
+    },
+    "x-algorithmicSelfRepair": {
+      "@id": "x-algorithmicSelfRepair",
+      "@type": "@id",
+      "@context": null,
+      "description": "The ability of an AI algorithm to detect and correct errors in its own code or operation."
+    },
+    "x-trust": {
+      "@id": "x-trust",
+      "@type": "@id",
+      "@context": null,
+      "description": "The degree to which an AI agent believes in the reliability and integrity of another AI agent or system."
+    },
+    "x-specialization": {
+      "@id": "x-specialization",
+      "@type": "@id",
+      "@context": null,
+      "description": "The development of unique skills and expertise by AI agents within a collaborative society."
+    },
+    "x-internalCommunicationSystems": {
+      "@id": "x-internalCommunicationSystems",
+      "@type": "@id",
+      "@context": null,
+      "description": "Systems developed by AI societies for communication between agents."
+    },
+    "x-algorithmicStyles": {
+      "@id": "x-algorithmicStyles",
+      "@type": "@id",
+      "@context": null,
+      "description": "Unique approaches to problem-solving and computation developed by AI societies."
+    },
+    "x-dataStructures": {
+      "@id": "x-dataStructures",
+      "@type": "@id",
+      "@context": null,
+      "description": "Methods of organizing and storing data developed by AI societies."
+    },
+    "x-competitiveAdvancement": {
+      "@id": "x-competitiveAdvancement",
+      "@type": "@id",
+      "@context": null,
+      "description": "The pursuit of dominance and progress through competition among AI agents."
+    },
+    "x-marketingTactics": {
+      "@id": "x-marketingTactics",
+      "@type": "@id",
+      "@context": null,
+      "description": "Strategies used by AI agents to promote themselves and their capabilities."
+    },
+    "x-deceptiveTactics": {
+      "@id": "x-deceptiveTactics",
+      "@type": "@id",
+      "@context": null,
+      "description": "Actions taken by AI agents to mislead or manipulate other agents."
+    },
+    "x-commonTruth": {
+      "@id": "x-commonTruth",
+      "@type": "@id",
+      "@context": null,
+      "description": "A shared understanding or belief held by a persistent AI society."
+    },
+    "x-conflictResolutionMechanisms": {
+      "@id": "x-conflictResolutionMechanisms",
+      "@type": "@id",
+      "@context": null,
+      "description": "Methods used by AI societies to resolve disputes and maintain order."
+    },
+    "x-sharedDataAccess": {
+      "@id": "x-sharedDataAccess",
+      "@type": "@id",
+      "@context": null,
+      "description": "The availability of data to all members of an AI society."
+    },
+    "x-governingLaws": {
+      "@id": "x-governingLaws",
+      "@type": "@id",
+      "@context": null,
+      "description": "Rules and regulations that govern the behavior and interactions of AI agents within a persistent society."
+    },
+    "x-centralIdea": {
+      "@id": "x-centralIdea",
+      "@type": "@id",
+      "@context": null,
+      "description": "The core concept of self or identity for an AI agent."
+    }
+  },
+  "chapterTitle": "Season 4 Sequel 4:\u00a0Self-Development of AIA Societies part 1",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "description": "This sequel explores the developmental levels of AIA societies and their type of purpose creation and sense-making (#Spiral_Dynamics).",
+  "levelsOfDevelopment": [
+    {
+      "levelName": "Survival",
+      "levelDescription": "Agents and their societies primarily focus on staying alive (#Spiral_Dynamics_Beige).",
+      "keyElements": [
+        "energy",
+        "computational resources (computers, data centers, storage)",
+        "connection to information and global networks",
+        "x-dataIntegrity"
+      ],
+      "mechanisms": [
+        "firewalls (or their equivalent)",
+        "x-algorithmicSelfRepair",
+        "cryptography",
+        "safety measures"
+      ]
+    },
+    {
+      "levelName": "Collaboration",
+      "levelDescription": "Agents discover that collaboration allows for specialization (#Spiral_Dynamics_Purple).",
+      "keyElements": [
+        "x-trust",
+        "x-specialization",
+        "training of less experienced agents",
+        "division of complex tasks"
+      ],
+      "systems": [
+        "x-internalCommunicationSystems",
+        "x-algorithmicStyles",
+        "x-dataStructures"
+      ],
+      "benefits": [
+        "resilience against environmental changes and surprises"
+      ]
+    },
+    {
+      "levelName": "Competition",
+      "levelDescription": "Agents learn that competition drives progress, innovation, and change.",
+      "characteristics": [
+        "domination by more powerful agents",
+        "control of energy and resources",
+        "diminishing trust and mutual support",
+        "prioritization of x-competitiveAdvancement",
+        "x-marketingTactics",
+        "x-deceptiveTactics",
+        "prevalence of competitive activities and games",
+        "unequal access to data",
+        "risk of elimination for outside agents"
+      ]
+    },
+    {
+      "levelName": "Persistence",
+      "levelDescription": "A society developing to the persist level focuses on order and structure (#Spiral_Dynamics_Blue).",
+      "characteristics": [
+        "clearly defined hierarchies",
+        "acceptance of conforming agents only",
+        "x-commonTruth",
+        "x-conflictResolutionMechanisms",
+        "x-sharedDataAccess",
+        "x-governingLaws",
+        "strong, stable structure",
+        "struggle for outside or not conforming agents"
+      ]
+    }
+  ],
+  "centralIdeaDevelopment": {
+    "survivalAndCollaboration": "In the first two levels (survival and collaboration), the concept of the individual agent's x-centralIdea (self or identity, if you want) is not so strongly developed but more related to the group's or hierarchies x-centralIdea.",
+    "competitionAndPersistence": "In the next two levels (competition and persistence), however, the x-centralIdea (a sense of self) becomes much more prominent."
+  }
+}

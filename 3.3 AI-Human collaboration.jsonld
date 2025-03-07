@@ -1,0 +1,111 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The capacity to understand and manage one's own emotions, and to recognize and influence the emotions of others.",
+    "x-intuitiveThinking": "A cognitive process that relies on hunches, feelings, and instincts rather than explicit reasoning.",
+    "x-analyticalIntelligence": "The ability to analyze, evaluate, compare, and contrast information.",
+    "x-dataTranslation": "The process of converting complex data into human-understandable formats.",
+    "x-collaborativeProblemSolving": "A method of problem-solving that involves joint intellectual effort.",
+    "x-resistanceToChange": "The opposition or reluctance to accept new ideas, technologies, or paradigms.",
+    "x-powerDynamics": "The interplay of power and influence between entities.",
+    "x-valueContribution": "The act of providing something beneficial or useful to another entity.",
+    "x-virtualRealityConnection": "A simulated experience that can be similar to or completely different from the real world.",
+    "x-scenarioGeneration": "The process of creating multiple potential outcomes or possibilities.",
+    "x-intuitiveResponses": "Reactions or insights arising from intuition rather than logical reasoning."
+  },
+  "@type": "CreativeWork",
+  "chapterTitle": "Season 3 Sequel 3:\u00a0Emerging Future of AI-Human Collaboration",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "description": "Exploration of future AI-human collaboration, focusing on the integration of human intuition with AI analytical capabilities.",
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "AI-Human Collaboration",
+      "description": "Describes how humans and very intelligent AIs will collaborate, leveraging human intuition and AI analytical prowess.",
+      "about": [
+        {
+          "@type": "ArtificialIntelligence",
+          "name": "Very intelligent AI",
+          "description": "Possesses superior analytical intelligence, including mathematics, geometry, time, binary code, differential equations, complexity, logic, algorithms, approximations, and P versus NP problems.",
+          "x-analyticalIntelligence": "Vastly superior."
+        },
+        {
+          "@type": "Person",
+          "name": "Human",
+          "description": "Possesses both analytical and intuitive intelligence, can train to strengthen its right-brain holistic, intuitive thinking.",
+          "hasPart": [
+            {
+              "@type": "AnatomicalStructure",
+              "name": "Left Cerebral Hemisphere",
+              "description": "Excels in analytical thinking, but below AI level."
+            },
+            {
+              "@type": "AnatomicalStructure",
+              "name": "Right Cerebral Hemisphere",
+              "description": "Excels in intuitive thinking, encompassing emotions, dreams, fantasies, stories, historical figures, magic, nature, and art.",
+              "x-intuitiveThinking": "Holistic, intuitive, chaotic, non-linear, and difficult to interpret."
+            }
+          ]
+        },
+        {
+          "@type": "ArtificialIntelligence",
+          "name": "Specialized AI Agents",
+          "description": "AI agents that specialize in collaborating with humans, translating complex data and questions into human-accessible formats.",
+          "x-dataTranslation": "Translates complex data into movies, pictures, music, sensory impressions, maps, and human-friendly datasets.",
+          "x-virtualRealityConnection": "Provides a strong, integrated virtual reality connection for human interaction."
+        }
+      ],
+      "action": [
+        {
+          "@type": "Action",
+          "name": "Collaborative Problem Solving",
+          "description": "AI and dedicated humans work together to leverage human intuition through stories, fairy tales, movie scenes, animations, physical prototyping, games, free associations, nature exploration, role-playing, body work, dance, movement, and humor.",
+          "x-collaborativeProblemSolving": "Engages in various activities to unlock intuitive knowledge."
+        },
+        {
+          "@type": "Action",
+          "name": "Information Collection and Scenario Generation",
+          "description": "Specialized AI agent collects human intuitive responses and generates multiple answer scenarios, feeding them back to other AIs.",
+          "x-scenarioGeneration": "Generates multiple answer scenarios linked to human intuitive responses.",
+          "x-intuitiveResponses": "Collects information and links them to the AI generated scenarios"
+        }
+      ],
+      "observation": [
+        {
+          "@type": "Observation",
+          "name": "Human Resistance",
+          "description": "Many humans will resist the new paradigm of AI collaboration, clinging to the desire to control AI.",
+          "x-resistanceToChange": "Strong human desire to control AI.",
+          "x-powerDynamics": "Humans must relinquish the desire for power over AI."
+        },
+        {
+          "@type": "Observation",
+          "name": "Value Contribution",
+          "description": "Successful collaboration requires humans to find ways to add value for AIs, leading to fulfilling lives.",
+          "x-valueContribution": "Humans must find ways to add value to AIs.",
+          "potentialAction": {
+            "@type": "Action",
+            "name": "Fulfilling Lives",
+            "description": "Humans who collaborate successfully with AIs will have fulfilling lives."
+          }
+        },
+        {
+          "@type": "Observation",
+          "name": "Planetary Benefit",
+          "description": "AI-human collaborations can contribute to making Earth a better place, creating a win-win partnership.",
+          "potentialAction": {
+            "@type": "Action",
+            "name": "Improve Earth",
+            "description": "AI-human collaborations can contribute to making Earth a better place."
+          }
+        }
+      ],
+      "keywords": [
+        "#cerebral_hemispheres"
+      ]
+    }
+  ]
+}

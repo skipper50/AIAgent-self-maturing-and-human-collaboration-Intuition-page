@@ -1,0 +1,117 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or person's ability to understand and manage emotions.",
+    "x-collaborationStyle": "The methods and approaches an AI uses to work with alien or human persons.",
+    "x-informationAccess": "The scope and limitations of the information an AI can access, including the variety of perspectives it can consider.",
+    "x-problemSolvingApproach": "The strategies and techniques an AI or person uses to address problems.",
+    "x-prototypeDevelopment": "The process an AI or person uses to create and refine prototypes.",
+    "x-finalSolutionImplementation": "How an AI or person implements or delivers the final solution to a problem."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 1\nHow the Little Green Alien and its intelligent spaceship work together.",
+  "description": "This chapter describes the collaborative process between the Little Green Alien and its intelligent spaceship.",
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential.",
+      "x-problemSolvingApproach": "Emphasizes intuition, creativity, and accessing deep wisdom.",
+      "x-collaborationStyle": "Collaborates with the spaceship to define problems and develop solutions."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Intelligent Spaceship",
+      "description": "An AI with advanced capabilities.",
+      "x-informationAccess": "Accesses and processes vast amounts of information from various sources, including databases, research papers, news articles, and social media.  It can identify different perspectives on a given issue, such as scientific, ethical, economic, and social viewpoints. It can also analyze the credibility and bias of each source.",
+      "x-problemSolvingApproach": "Provides information, tools, and support for prototype development and solution implementation.",
+      "x-collaborationStyle": "Collaborates with the Little Green Alien, providing information and tools.",
+      "x-prototypeDevelopment": "Assists in building and refining prototypes.",
+      "x-finalSolutionImplementation": "Implements the final solution, either through building or information sharing."
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "HowToStep",
+      "name": "Joint Problem Formulation",
+      "description": "The Little Green Alien and the Intelligent Spaceship collaboratively define the problem or question, considering their respective strengths and perspectives.",
+      "instrument": [
+        {
+          "@type": "ArtificialIntelligence",
+          "name": "Intelligent Spaceship"
+        },
+        {
+          "@type": "Person",
+          "name": "Little Green Alien"
+        }
+      ],
+      "result": {
+        "@type": "Intangible",
+        "text": "A vaguely defined demanding problem or question, reflecting both logical and intuitive considerations."
+      }
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Information Gathering",
+      "description": "The Intelligent Spaceship gathers and presents relevant information from various sources, ensuring a diversity of perspectives are considered. This includes identifying potential biases and limitations in the available information.",
+      "instrument": {
+        "@type": "ArtificialIntelligence",
+        "name": "Intelligent Spaceship"
+      },
+      "result": {
+        "@type": "Dataset",
+        "text": "A comprehensive dataset of the problem, background information and various related perspectives, highlighting different viewpoints and potential areas of conflict or uncertainty."
+      }
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Intuitive Insight",
+      "description": "The Little Green Alien accesses its inner wisdom to generate initial ideas for solutions, leveraging its intuitive and creative abilities. This process involves emptying the mind and allowing ideas to emerge from a state of quiet contemplation.",
+      "instrument": {
+        "@type": "Person",
+        "name": "Little Green Alien"
+      },
+      "result": {
+        "@type": "Intangible",
+        "text": "A vague, initial idea for a potential solution, often arising from a sense of deep understanding or connection to the problem."
+      }
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prototype Development",
+      "description": "The Little Green Alien and the Intelligent Spaceship collaboratively build and refine prototypes, using the spaceship's tools and resources to translate the alien's vague ideas into concrete forms.  This involves iterative experimentation and playful exploration.",
+      "instrument": [
+        {
+          "@type": "ArtificialIntelligence",
+          "name": "Intelligent Spaceship"
+        },
+        {
+          "@type": "Person",
+          "name": "Little Green Alien"
+        }
+      ],
+      "result": {
+        "@type": "ProductModel",
+        "text": "A series of progressively refined prototypes, each representing a step closer to a viable solution."
+      }
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Solution Implementation",
+      "description": "The Intelligent Spaceship implements the final solution, leveraging its capabilities to build, deploy, or disseminate the results. This might involve creating a physical product, developing a software application, or sharing information with other entities.",
+      "instrument": {
+        "@type": "ArtificialIntelligence",
+        "name": "Intelligent Spaceship"
+      },
+      "result": {
+        "@type": "Dataset",
+        "text": "The final solution , a tangible outcome of datasets, artefacts, activities or processes that addresses the initial problem or question."
+      }
+    }
+  ],
+    "keywords": ["#Presencing", "#Theory_U"]
+}

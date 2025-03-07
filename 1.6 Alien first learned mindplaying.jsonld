@@ -1,0 +1,170 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "Property",
+      "description": "The ability to understand and manage one's own emotions, as well as recognize the emotions of others."
+    },
+    "x-internalFamilySystems": {
+      "@id": "x-internalFamilySystems",
+      "@type": "Property",
+      "description": "A model of psychotherapy that suggests that the mind is made up of multiple subpersonalities or 'parts', each with its own unique perspective, feelings, and motivations."
+    },
+    "x-mindPlaying": {
+      "@id": "x-mindPlaying",
+      "@type": "Property",
+      "description": "The ability to consciously influence and manage one's own mental processes, including thoughts, emotions, and attention."
+    },
+    "x-externalTriggers": {
+      "@id": "x-externalTriggers",
+      "@type": "Property",
+      "description": "External events or stimuli that can elicit emotional or mental reactions."
+    },
+    "x-automatism": {
+      "@id": "x-automatism",
+      "@type": "Property",
+      "description": "A pattern of behavior or thinking that occurs automatically or habitually, often without conscious awareness."
+    },
+    "x-attentionManagement": {
+      "@id": "x-attentionManagement",
+      "@type": "Property",
+      "description": "The ability to consciously control and direct one's attention."
+    },
+    "x-selfDiscovery": {
+      "@id": "x-selfDiscovery",
+      "@type": "Property",
+      "description": "The process of gaining understanding and insight into one's own nature, identity, and motivations."
+    },
+    "x-internalParts": {
+      "@id": "x-internalParts",
+      "@type": "Property",
+      "description": "Distinct subpersonalities or aspects of one's own mind, each with its own unique characteristics and functions."
+    },
+    "x-notKnowing": {
+      "@id": "x-notKnowing",
+      "@type": "Property",
+      "description": "A state of openness and curiosity, free from preconceived notions or expectations."
+    },
+    "x-emptyMind": {
+      "@id": "x-emptyMind",
+      "@type": "Property",
+      "description": "A state of mental stillness and clarity, achieved through focused attention or meditation."
+    },
+    "x-deepRelaxation": {
+      "@id": "x-deepRelaxation",
+      "@type": "Property",
+      "description": "A state of profound physical and mental relaxation, characterized by reduced muscle tension, slower breathing, and a calmer mind."
+    }
+  },
+  "chapterTitle": "Season 1 Sequel 6",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Young Alien",
+      "description": "A young alien learning about mind-playing.",
+      "x-mindPlaying": true
+    },
+    {
+      "@type": "Person",
+      "name": "Green Alien",
+      "description": "A young alien learning about mind-playing.",
+      "x-mindPlaying": true
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Intelligent Spaceship",
+      "description": "The spaceship of the green alien."
+    }
+  ],
+  "events": [
+    {
+      "@type": "Event",
+      "name": "Learning Mind-Playing",
+      "description": "The intelligent spaceship teaching the young alien about mind-playing.",
+      "location": {
+        "@type": "Place",
+        "name": "School"
+      },
+      "agent": {
+        "@type": "ArtificialIntelligence",
+        "name": "Intelligent Spaceship"
+      },
+      "object": {
+        "@type": "Person",
+        "name": "Young Alien"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Learning Addition, Subtraction, Alphabet",
+      "description": "The children learning basic skills in schools on earth.",
+      "location": {
+        "@type": "Place",
+        "name": "Schools on Earth"
+      },
+      "participant": {
+        "@type": "Person",
+        "name": "Young Human"
+      }
+    }
+  ],
+  "properties": {
+    "x-mindPlaying": {
+      "description": "The ability to consciously influence and manage one's own mental processes.",
+      "example": "The green alien explains that they learned to play their mind like a beautiful instrument."
+    },
+    "x-externalTriggers": {
+      "description": "External events or stimuli that can elicit emotional or mental reactions.",
+      "example": "The green alien learned to deal with external triggers that influence their mind and spaceship."
+    },
+    "x-automatism": {
+      "description": "A pattern of behavior or thinking that occurs automatically or habitually.",
+      "example": "The green alien learned to observe and control their automatism that reacts to external triggers and the one that is auto-playing their mind."
+    },
+    "x-attentionManagement": {
+      "description": "The ability to consciously control and direct one's attention.",
+      "example": "The green alien learned to manage their attention, controlling how it jumps around."
+    },
+    "x-selfDiscovery": {
+      "description": "The process of gaining understanding and insight into one's own nature, identity, and motivations.",
+      "example": "The green alien looked into a mirror and asked 'Who am I?' as part of their self-discovery. They discovered that not knowing can be a nice state and that with a 'ping' sound, they can empty their mind and relax deeply."
+    },
+    "x-internalParts": {
+      "description": "Distinct subpersonalities or aspects of one's own mind.",
+      "example": "The green alien learned that their personality consists of different parts, each with its own characteristics: funny, questioning, protective, investigative, victim, sad, loving, aggressive, wise, avoidant, and escapist."
+    },
+    "x-internalFamilySystems": {
+      "description": "A model of psychotherapy that suggests that the mind is made up of multiple subpersonalities or 'parts'.",
+      "example": "The green alien's description of their internal parts relates to the concept of Internal Family Systems."
+    },
+    "x-notKnowing": {
+      "description": "A state of openness and curiosity, free from preconceived notions or expectations.",
+      "example": "The green alien discovered that not knowing can be a nice state."
+    },
+    "x-emptyMind": {
+      "description": "A state of mental stillness and clarity, achieved through focused attention or meditation.",
+      "example": "The green alien learned to empty their mind with a 'ping' sound."
+    },
+    "x-deepRelaxation": {
+      "description": "A state of profound physical and mental relaxation, characterized by reduced muscle tension, slower breathing, and a calmer mind.",
+      "example": "The green alien learned to relax deeply by emptying their mind."
+    }
+  },
+  "links": [
+      {
+          "@type": "Link",
+          "url": "www.mindplayers.world",
+          "description": "Website about mind-playing"
+      },
+      {
+          "@type": "Link",
+          "url": "https://https://en.wikipedia.org/wiki/Mindplayers",
+          "description": "Mindplayers is a 1987 novel by science fiction author Pat Cadigan"
+      }
+  ]
+}

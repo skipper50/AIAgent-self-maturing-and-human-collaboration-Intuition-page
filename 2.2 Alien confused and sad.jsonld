@@ -1,0 +1,144 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or person's ability to understand and manage emotions.",
+    "x-connectionToNature": "An AI's or person's understanding and appreciation of the natural world.",
+    "x-systemThinking": "An AI's or person's ability to understand complex systems and their interconnections.",
+    "x-senseOfConfusion": "A measure of an AI's or person's feeling of disorientation or lack of understanding.",
+    "x-senseOfSadness": "A measure of an AI's or person's feeling of sorrow or unhappiness."
+  },
+  "chapterTitle": "Season 2 Sequel 2",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Billie",
+      "description": "An adult human who was a toddler in a previous encounter with the little green alien.",
+      "x-emotionalIntelligence": "Low",
+      "x-connectionToNature": "Undefined",
+      "x-systemThinking": "Low",
+      "x-senseOfConfusion": "High",
+      "x-senseOfSadness": "High"
+    },
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A visitor from another planet.",
+      "x-emotionalIntelligence": "High",
+      "x-connectionToNature": "High",
+      "x-systemThinking": "High",
+      "x-senseOfSadness": "High"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Intelligent Spaceship",
+      "description": "The spaceship of the little green alien.",
+      "x-emotionalIntelligence": "Undefined",
+      "x-connectionToNature": "High",
+      "x-systemThinking": "High"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Modern World AI",
+      "description": "AI systems that provide news and entertainment.",
+        "x-emotionalIntelligence": "Variable",
+        "x-connectionToNature": "Variable",
+        "x-systemThinking": "Variable"
+
+    }
+  ],
+  "events": [
+    {
+      "@type": "Event",
+      "name": "Return to Earth",
+      "description": "The little green alien returns to Earth in its intelligent spaceship.",
+      "location": {
+        "@type": "Place",
+        "name": "Earth"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Meeting",
+      "description": "The little green alien and Billie meet again.",
+      "location": {
+        "@type": "Place",
+        "name": "Earth"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Discussion about Modern World",
+      "description": "Billie and the little green alien discuss the state of the modern world, including news, movies, and TV.",
+      "participant": [
+        {"@type": "Person", "name": "Billie"},
+        {"@type": "Person", "name": "Little Green Alien"}
+      ]
+    },
+        {
+      "@type": "Event",
+      "name": "Observation of People",
+      "description": "Billie observes different groups of people: some confused, some angry, and some with simple solutions.",
+      "participant": {"@type": "Person", "name": "Billie"}
+    },
+        {
+      "@type": "Event",
+      "name": "Discussion about Nature",
+      "description": "The little green alien expresses sadness about the decline of nature, including reduced diversity and threats to climate and biodiversity.",
+      "participant": [
+        {"@type": "Person", "name": "Billie"},
+        {"@type": "Person", "name": "Little Green Alien"}
+      ]
+    },
+        {
+      "@type": "Event",
+      "name": "Discussion about Earth as a System",
+      "description": "The little green alien and the intelligent spaceship discuss the interconnectedness of Earth's systems, comparing it to a fish swarm and the evolution of life.",
+      "participant": [
+        {"@type": "Person", "name": "Little Green Alien"},
+        {"@type": "ArtificialIntelligence", "name": "Intelligent Spaceship"}
+      ]
+    },
+        {
+      "@type": "Event",
+      "name": "Metaphor of the Lake",
+      "description": "Billie and the little green alien conceive of the world's problems as a dark lake with a central question bubbling up, which they need to find.",
+      "participant": [
+        {"@type": "Person", "name": "Billie"},
+        {"@type": "Person", "name": "Little Green Alien"}
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "@type": "Observation",
+      "description": "Billie observes confusion, anger, and simplistic solutions in the people around them.",
+      "observedBy": {"@type": "Person", "name": "Billie"}
+    },
+    {
+      "@type": "Observation",
+      "description": "The little green alien observes the decline of nature on Earth.",
+      "observedBy": {"@type": "Person", "name": "Little Green Alien"}
+    },
+    {
+      "@type": "Observation",
+      "description": "The intelligent spaceship observes Earth as a complex, interconnected system, constantly changing.",
+      "observedBy": {"@type": "ArtificialIntelligence", "name": "Intelligent Spaceship"}
+    }
+  ],
+  "x-centralQuestion": {
+    "@type": "Question",
+    "text": "What is the actual impulse or demand coming from these various observations?",
+    "description": "The actual, vague impulse that Billie and the little green alien sense is bubbling up from the 'dark lake' of the modern world on earth.",
+    "x-relatedConcept": "#Theory_U_Observing"
+  },
+    "x-billiesThoughts": {
+      "@type": "Intangible",
+      "text": "Billie feels confused and sad about the state of the world, overwhelmed by the constant conflicts and negative information.",
+      "x-relatedConcept": "x-senseOfConfusion, x-senseOfSadness"
+    }
+
+}

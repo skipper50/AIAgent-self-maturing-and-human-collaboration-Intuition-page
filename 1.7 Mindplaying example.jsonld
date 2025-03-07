@@ -1,0 +1,247 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or a persons ability to understand and manage emotions.",
+    "x-mindPlaying": "The process of exploring and influencing internal and external triggers playing the mind and the mind playing itself.",
+    "x-suppressedPart": "A portion of an person's personality that has been repressed or ignored.",
+    "x-integration": "The process of combining different parts of one's personality into a cohesive whole.",
+    "x-wildnessDish": "A symbolic mental construct representing unrestrained wildness and freedom in form of a digestible dish."
+  },
+  "chapterTitle": "Season 1 Sequel 7:  Little Alien's Mind-Playing Experiences",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential.",
+      "x-mindPlayingExperiences": {
+        "@type": "CreativeWork",
+        "name": "Mind-Playing Experiences",
+        "description": "Early experiences of the little green alien with mind-playing.",
+        "hasPart": [
+          {
+            "@type": "Event",
+            "name": "Flower Encounter 1",
+            "description": "The alien's first encounter with a bouquet containing stinging nettles.",
+            "location": {
+              "@type": "Place",
+              "name": "Flower Field"
+            },
+            "result": {
+              "@type": "Thing",
+              "name": "Painful Experience",
+              "description": "The pain caused by the stinging nettles."
+            }
+          },
+          {
+            "@type": "Event",
+            "name": "Flower Encounter 2",
+            "description": "The alien's encounter with roses and their thorns.",
+            "location": {
+              "@type": "Place",
+              "name": "Rose Garden"
+            },
+            "result": {
+              "@type": "Thing",
+              "name": "More Pain",
+              "description": "The pain caused by the rose thorns."
+            }
+          },
+          {
+            "@type": "PsychologicalCondition",
+            "name": "Craving for Order",
+            "description": "The part of the alien's personality that developed as a result of the painful experiences.",
+            "x-motivations": [
+                {
+                    "@type": "Thing",
+                    "name": "Prevent Pain",
+                    "description": "The motivation to prevent future painful experiences."
+                }
+            ],
+            "hasPart": [
+              {
+                "@type": "Action",
+                "name": "Organizing and Categorizing",
+                "description": "The actions taken by the alien to organize and categorize things.",
+                "object": {
+                  "@type": "Thing",
+                  "name": "Everything"
+                }
+              },
+              {
+                "@type": "Action",
+                "name": "Developing Love",
+                "description": "The development of a love for structured flower beds and meticulously sorted objects.",
+                "object": {
+                  "@type": "Place",
+                  "name": "Structured Flower Beds"
+                }
+              },
+              {
+                "@type": "Action",
+                "name": "Adopting Haircut",
+                "description": "The alien adopting an orderly haircut.",
+                "object": {
+                  "@type": "Style",
+                  "name": "Orderly Haircut"
+                }
+              },
+              {
+                "@type": "Action",
+                "name": "Seeking Clarity",
+                "description": "The alien seeking mental clarity.",
+                "object": {
+                  "@type": "Thing",
+                  "name": "Mental Clarity"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "PsychologicalCondition",
+            "name": "Suppressed Wildness",
+            "description": "The wilder, more chaotic part of the alien's personality that was suppressed.",
+            "x-location": {
+              "@type": "Place",
+              "name": "The Basement",
+              "description": "A mental space representing the suppressed part."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Opening Basement Door",
+            "description": "The alien's decision to mentally open the door to the basement.",
+            "instrument": {
+              "@type": "ArtificialIntelligence",
+              "name": "Intelligent Spaceship",
+              "description": "The spaceship that provided the hint.",
+              "x-type": "Intelligent Spaceship"
+            }
+          },
+          {
+            "@type": "Event",
+            "name": "Grand Dinner",
+            "description": "The mental dinner the alien treated the wild part to.",
+            "object": {
+              "@type": "Person",
+              "name": "Wild Part",
+              "x-type": "Suppressed Part"
+            },
+            "x-purpose": {
+              "@type": "Thing",
+              "name": "Understanding Needs",
+              "description": "The purpose of understanding the wild part's needs."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Serving Wildness Dish",
+            "description": "The alien serving the 'Wildness Dish' to the wild part.",
+            "object": {
+              "@type": "Food",
+              "name": "Wildness Dish",
+              "x-type": "Wildness Dish",
+              "description": "A symbolic dish made from all things the alien possessed and valued, representing unrestrained wildness."
+            }
+          },
+          {
+            "@type": "Event",
+            "name": "Interaction of Parts",
+            "description": "The interaction between the orderly and wild parts of the alien's personality.",
+            "object": [
+              {
+                "@type": "Person",
+                "name": "Orderly Part",
+                "x-type": "Craving for Order"
+              },
+              {
+                "@type": "Person",
+                "name": "Wild Part",
+                "x-type": "Suppressed Part"
+              }
+            ],
+            "x-type": "Integration",
+            "hasPart": {
+              "@type": "Event",
+              "name": "Dance of Principles",
+              "description": "The metaphorical dance representing the interplay of order and chaos."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Appreciating Gardens",
+            "description": "The alien's ability to appreciate gardens combining order and chaos.",
+            "object": {
+              "@type": "Place",
+              "name": "Gardens",
+              "description": "Gardens that combine both order and chaos."
+            }
+          },
+          {
+            "@type": "Action",
+            "name": "Valuing Aspects",
+            "description": "The alien learning to value both aspects of its personality.",
+            "object": [
+              {
+                "@type": "Thing",
+                "name": "Order"
+              },
+              {
+                "@type": "Thing",
+                "name": "Chaos"
+              }
+            ]
+          },
+          {
+            "@type": "Action",
+            "name": "Working with Order and Chaos",
+            "description": "The alien's ability to work effectively with both order and chaos in its thinking.",
+            "object": [
+              {
+                "@type": "Thing",
+                "name": "Order"
+              },
+              {
+                "@type": "Thing",
+                "name": "Chaos"
+              }
+            ]
+          },
+          {
+            "@type": "Outcome",
+            "name": "Increased Flexibility",
+            "description": "The outcome of mind-playing, leading to increased flexibility.",
+            "result": {
+              "@type": "Thing",
+              "name": "Flexibility",
+              "description": "Increased mental flexibility."
+            }
+          },
+          {
+            "@type": "Outcome",
+            "name": "Liberation from Limitation",
+            "description": "Liberation from being limited to a single pattern.",
+            "result": {
+              "@type": "Thing",
+              "name": "Liberation",
+              "description": "Liberation from being limited to a single pattern."
+            }
+          },
+          {
+            "@type": "Outcome",
+            "name": "Wider Range of Experiences",
+            "description": "Experiencing and appreciating a wider range of things and perspectives.",
+            "result": {
+              "@type": "Thing",
+              "name": "Wider Range",
+              "description": "A wider range of experiences and perspectives."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

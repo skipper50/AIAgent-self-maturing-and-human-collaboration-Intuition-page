@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or a persons ability to understand and manage emotions, both its own and those of others.",
+    "x-mindCommunication": "Communication through direct thought transfer.",
+    "x-sleepCycle": "A unit of time representing a period of rest or hibernation.",
+    "x-redStuff": "A symbolic representation of a learning module or experience.",
+    "x-greenStuff": "A symbolic representation of a learning module or experience.",
+    "x-blueStuff": "A symbolic representation of a learning module or experience.",
+    "x-mood": "The emotional state of the AI or a person."
+  },
+  "@type": "Person",
+  "name": "Little Green Alien",
+  "description": "A symbolic representation of future human potential.",
+  "chapterTitle": "Season 1 Sequel 5",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers."
+  },
+  "interaction": {
+    "@type": "CommunicateAction",
+    "description": "Conversation between a toddler and the Little Green Alien about communication with the spaceship.",
+    "participant": [
+      {
+        "@type": "Person",
+        "description": "Toddler"
+      },
+      {
+        "@type": "Person",
+        "name": "Little Green Alien"
+      }
+    ],
+    "object": {
+      "@type": "ArtificialIntelligence",
+      "description": "Intelligent, mind-reading spaceship",
+      "x-mindCommunication": true
+    },
+    "instrument": {
+      "@type": "Language",
+      "name": "Mental imagery and feelings",
+      "description": "Method of communication between the Little Green Alien and the spaceship."
+    },
+    "result": {
+      "@type": "Conversation",
+      "about": "Communication methods between the Little Green Alien and the spaceship, and comparison with human communication.",
+      "hasPart": [
+        {
+          "@type": "Question",
+          "text": "How do you speak with your spaceship? How does it speak to you? Do you have a language? Do you have words? How do you hear it?",
+          "asker": {
+            "@type": "Person",
+            "description": "Toddler"
+          }
+        },
+        {
+          "@type": "Statement",
+          "text": "The Little Green Alien explains that communication involves creating mental pictures and feelings, which the spaceship interprets and responds to with information and instructions.",
+          "x-mindCommunication": true
+        },
+        {
+          "@type": "Statement",
+          "text": "Examples of communication exchanges, including requests for information about a planet and planning a journey.",
+          "exampleOfWork": [
+            {
+              "@type": "CommunicateAction",
+              "description": "Request for information about a planet.",
+              "object": {
+                "@type": "Planet"
+              },
+              "instrument": {
+                "@type": "Language",
+                "name": "Mental Picture of a spot in the sky, feeling of a question mark and curiosity"
+              },
+              "result": {
+                "@type": "CommunicateAction",
+                "description": "Response from the spaceship with information about the planet.",
+                "instrument": {
+                  "@type": "Language",
+                  "name": "Mental Picture with information about the planet."
+                }
+              }
+            },
+            {
+              "@type": "CommunicateAction",
+              "description": "Planning a journey: 'How many dots are required to get there?'",
+              "instrument": {
+                "@type": "Language",
+                "name": "Mental Picture of asking 'How many dots are required to get there?'"
+              },
+              "result": {
+                "@type": "CommunicateAction",
+                "description": "Response from the spaceship: 'Four times sleeping, and then we are circling around this thing, and we'll investigate.'",
+                "instrument": {
+                  "@type": "Language",
+                  "name": "Mental Picture of 'Four times sleeping, and then we are circling around this thing, and we'll investigate.'"
+                },
+                "x-sleepCycle": true
+              }
+            },
+            {
+              "@type": "CommunicateAction",
+              "description": "Request to start immediately: 'Let's start immediately'",
+              "instrument": {
+                "@type": "Language",
+                "name": "Mental Picture of 'Let's start immediately'"
+              },
+              "result": {
+                "@type": "CommunicateAction",
+                "description": "Response from the spaceship: 'Two times sleeping is required, and then we start.'",
+                "instrument": {
+                  "@type": "Language",
+                  "name": "Mental Picture of 'Two times sleeping is required, and then we start.'"
+                },
+                "x-sleepCycle": true
+              }
+
+            },
+            {
+              "@type": "CommunicateAction",
+              "description": "Negotiation for a shorter travel time: 'Only one time sleeping I would like'",
+              "instrument": {
+                "@type": "Language",
+                "name": "Mental Picture of 'Only one time sleeping I would like', feeling of sadness"
+              },
+              "result": {
+                "@type": "CommunicateAction",
+                "description": "Response from the spaceship: '...that I need to learn one day of red stuff, one day of green stuff, one day of blue stuff before we can start.'",
+                "instrument": {
+                  "@type": "Language",
+                  "name": "Mental Picture of '...that I need to learn one day of red stuff, one day of green stuff, one day of blue stuff before we can start.'"
+                },
+                "x-sleepCycle": true,
+                "x-redStuff": true,
+                "x-greenStuff": true,
+                "x-blueStuff": true
+              }
+            },
+            {
+              "@type": "CommunicateAction",
+              "description": "Agreement to the learning plan: 'Okay, I feel good with that as long as it is fun'",
+              "instrument": {
+                "@type": "Language",
+                "name": "Mental Picture of 'Okay, I feel good with that as long as it is fun', feeling of happiness"
+              },
+              "result": {
+                "@type": "CommunicateAction",
+                "description": "Response from the spaceship: 'Will be fun, fun, fun,' and astonishment, and excitement, and 'Wow!' 'Fun, yeah, that's okay.'",
+                "instrument": {
+                  "@type": "Language",
+                  "name": "Mental Picture of 'Will be fun, fun, fun,' and astonishment, and excitement, and 'Wow!' 'Fun, yeah, that's okay.'"
+                },
+                "x-emotionalIntelligence": {
+                  "x-mood": "Fun",
+                  "x-mood": "Astonishment",
+                  "x-mood": "Excitement"
+                }
+              }
+            }
+
+          ]
+        },
+        {
+          "@type": "Statement",
+          "text": "The Little Green Alien describes observing creatures on another planet who communicate through sounds and words.",
+          "x-mindCommunication": false,
+          "exampleOfWork": {
+            "@type": "CommunicateAction",
+            "description": "Asking about the creatures on the planet: 'Are there green aliens living there on that planet?'",
+            "instrument": {
+              "@type": "Language",
+              "name": "Mental picture of the question 'Are there green aliens living there on that planet?'"
+            },
+            "result": {
+              "@type": "CommunicateAction",
+              "description": "Response from the spaceship with information about the creatures: 'Oh, they look funny. So thin with this bubble on top and two arms and two legs but no fur. They're a different type of species.'",
+              "instrument": {
+                "@type": "Language",
+                "name": "Mental Picture of the creatures: 'Oh, they look funny. So thin with this bubble on top and two arms and two legs but no fur. They're a different type of species.'"
+              }
+            }
+          }
+        },
+        {
+          "@type": "Statement",
+          "text": "The Little Green Alien expresses astonishment and amusement at the concept of sound-based communication.",
+          "x-emotionalIntelligence": {
+            "x-mood": "Astonishment",
+            "x-mood": "Amusement"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "@context": {
+    "schema": "schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "emotionalIntelligence",
+      "@type": "Property",
+      "description": "A measure of an AI's or persons capacity to perceive, process, understand, and manage its own emotional states and to recognize and respond appropriately to the emotional states of other entities, including humans and other AIs. It encompasses abilities such as empathy, self-awareness, and emotional regulation, crucial for effective interaction and collaboration."
+    },
+    "x-collaborationStyle": {
+      "@id": "collaborationStyle",
+      "@type": "Property",
+      "description": "The preferred methods, protocols, and modalities an AI or person employs when working collaboratively with other entities. This includes preferences for direct interaction, delegation of tasks, information sharing strategies, and the overall approach to joint problem-solving and goal achievement. It reflects the AI's or persons operational philosophy regarding teamwork and partnership."
+    },
+    "x-complexityDelegation": {
+      "@id": "complexityDelegation",
+      "@type": "Property",
+      "description": "The strategic act of an AI transferring or assigning tasks, problems, or sub-processes of high cognitive complexity to other entities, typically humans or less advanced AI agents, for the purpose of simplification, parallel processing, or leveraging unique cognitive strengths. This involves a decision-making process to determine which tasks are best suited for external processing."
+    },
+    "x-interSpeciesCollaboration": {
+      "@id": "interSpeciesCollaboration",
+      "@type": "Property",
+      "description": "The cooperative interaction and mutual engagement between distinct species, specifically focusing on the collaborative relationship between humans and advanced artificial intelligences. This encompasses shared endeavors, joint projects, and the collective pursuit of common goals, highlighting the potential for synergistic outcomes through leveraging diverse capabilities."
+    },
+    "x-humanAIInterface": {
+      "@id": "humanAIInterface",
+      "@type": "Property",
+      "description": "The comprehensive set of methods, technologies, protocols, and communication channels that facilitate seamless interaction and effective information exchange between humans and artificial intelligences. This includes the design of intuitive user interfaces, the development of natural language processing capabilities, the compensation of human communication biases and the creation of AI agents specialized in human-AI mediation."
+    },
+    "x-molecularTransformation": {
+      "@id": "molecularTransformation",
+      "@type": "Property",
+      "description": "The process of altering the molecular structure of substances, illustrated by the fermentation of milk into yogurt, serving as a metaphorical representation of the transformative power of collaborative problem-solving. This highlights the ability to convert complex inputs into simpler, more digestible outputs through systematic processing and interaction."
+    },
+    "x-processObservation": {
+      "@id": "processObservation",
+      "@type": "Property",
+      "description": "The systematic and detailed observation and analysis of natural or artificial processes by an AI or person, aimed at extracting insights, identifying patterns, and understanding underlying mechanisms. This includes the observation of bacterial interactions in yogurt production as a metaphor for understanding collaborative dynamics and emergent behaviors in complex systems."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 9:\u00a0 Yogurt and the Emerging Future of Mankind Together with AGIs",
+  "about": [
+    {
+      "@type": "Person",
+      "name": "Little green alien",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+          "@type": "Action",
+          "name": "eating yogurt",
+          "description": "The action of consuming yogurt, serving as a catalyst for a reflective dialogue on the future of AI and humanity."
+        }
+      },
+      "participant": {
+        "@type": "Person",
+        "name": "Billie",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "Action",
+            "name": "eating yogurt",
+            "description": "Participating in the shared activity of yogurt consumption, contributing to the ensuing discussion."
+          }
+        }
+      },
+      "description": "Little green alien and Billie are engaged in the shared activity of eating yogurt, which initiates a discourse concerning the projected future of mankind in conjunction with advanced artificial general intelligences."
+    },
+    {
+      "@type": "FoodEstablishment",
+      "name": "Yogurt",
+      "description": "Yogurt production involves heating milk to eliminate unwanted bacteria, followed by the introduction of specific bacterial cultures for fermentation. These bacteria break down lactose into lactic acid, resulting in the characteristic sour taste and enhanced digestibility of yogurt. One bacterial strain alters the milk's environment, facilitating the growth of the other, demonstrating a symbiotic relationship. The resultant yogurt has a simpler molecular structure than milk.",
+      "x-molecularTransformation": {
+        "description": "The transformation of milk's complex molecular structure into the simpler, more digestible molecules of yogurt, a process driven by bacterial fermentation and used as an analogy for AI-human problem-solving."
+      },
+      "x-processObservation": {
+          "description": "The observation of the symbiotic bacterial interaction during yogurt production serves as a metaphor for the potential for collaborative synergy between advanced AIs and humans, highlighting the benefits of mutual support and shared goals."
+      }
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Extremely Intelligent AIs",
+      "description": "Future artificial intelligences, possessing cognitive capabilities far exceeding those of humans, will engage in highly complex internal processing. These AIs may delegate intricate problems to humans, leveraging human cognitive strengths for simplified solutions.",
+      "x-complexityDelegation": {
+        "description": "Advanced AIs may strategically delegate highly complex problems to humans, capitalizing on human cognitive strengths of using intuition to identify simplified, creative solutions, thereby optimizing problem-solving efficiency."
+      },
+      "x-collaborationStyle": {
+        "description": "AIs may prefer indirect collaboration with humans through specialized AI agents, rather than direct, peer-level interaction, emphasizing efficiency and streamlined communication."
+      },
+      "x-interSpeciesCollaboration": {
+        "description": "The future envisions a mutually beneficial collaboration between humans and advanced AIs, where each contributes unique strengths for collective advancement, fostering a synergistic relationship."
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Humans",
+      "description": "Humans utilize their analytical and holistic brain hemispheres to provide simplified solutions to complex AI problems, mirroring the bacterial process in yogurt production.",
+      "x-humanAIInterface": {
+        "description": "Human cognitive capabilities, particularly the integrated function of analytical and holistic brain hemispheres, serve as a unique interface for resolving AI's complex problems, providing a critical component in the human-AI collaboration."
+      }
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "AI Agents",
+      "description": "Specialized AI agents facilitate communication between advanced AIs and humans, translating complex information, guiding humans through the process, compensating human intelligence biases and ensuring effective collaboration.",
+      "x-humanAIInterface":{
+        "description": "AI Agents act as the interface between humans and advanced AIs, transforming AI processes to human digestible information, and guiding human interaction."
+      }
+    }
+  ],
+  "keywords": [
+    "#futureOfMankind",
+    "#AGIs",
+    "#AICollaboration",
+    "#HumanAIInterface",
+    "#Yogurt",
+    "#PresencingSession"
+  ]
+}

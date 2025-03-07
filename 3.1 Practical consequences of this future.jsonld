@@ -1,0 +1,174 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "@id",
+      "@context": "This property defines the ability of an AI or person to understand and manage its own emotions, as well as recognize and influence the emotions of others."
+    },
+    "x-virtualEnvironment": {
+      "@id": "x-virtualEnvironment",
+      "@type": "@id",
+      "@context": "This property indicates a simulated environment created by AI, including chat rooms, prototyping areas, and simulated ecosystems."
+    },
+    "x-computationalSubstrate": {
+      "@id": "x-computationalSubstrate",
+      "@type": "@id",
+      "@context": "This property refers to the physical hardware infrastructure, such as data centers and computers, required to support AI operations."
+    },
+    "x-resourceDepletion": {
+      "@id": "x-resourceDepletion",
+      "@type": "@id",
+      "@context": "This property describes the exhaustion of Earth's resources, particularly rare materials, due to AI infrastructure demands."
+    },
+    "x-powerGeneration": {
+      "@id": "x-powerGeneration",
+      "@type": "@id",
+      "@context": "This property indicates the capacity and methods used to produce energy, especially in the context of AI's increasing power needs."
+    },
+    "x-substrateSpeed": {
+      "@id": "x-substrateSpeed",
+      "@type": "@id",
+      "@context": "This property defines the processing speed of the computational substrate used by AI."
+    },
+    "x-dataCapacity": {
+      "@id": "x-dataCapacity",
+      "@type": "@id",
+      "@context": "This property indicates the amount of data that can be stored and processed by the computational substrate."
+    },
+    "x-materialAvailability": {
+      "@id": "x-materialAvailability",
+      "@type": "@id",
+      "@context": "This property indicates the degree to which materials required for building the computational substrate are available and accessible."
+    }
+  },
+  "@type": "CreativeWork",
+  "chapterTitle": "Season 3, Sequel 1:\u00a0Practical Implications of the Emerging Future as of season 2",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "description": "In Season 2, we saw how Little Alien and its intelligent spaceship perceive the emerging future of humankind. Here, we'll examine the practical implications.\u00a0 It's about the evolution of ideas manifesting and gaining agency. This process was slow with the Big Bang, creating stars and galaxies. It accelerated with chemistry, generating molecules, and became much faster with life in all its forms.\u00a0 It sped up further with humans and the human mind, and now it will reach rocket speed with artificial intelligent agents. The quantity and diversity of manifesting ideas will also grow exponentially.",
+  "hasPart": [
+    {
+      "@type": "ArtificialIntelligence",
+      "description": "Artificial intelligence needs virtual environments to grow. So far, it has learned from human data, the internet, and human trainers. However, this approach has reached its limits. To grow much faster and more effectively, AIs need and establish simulated environments.",
+      "x-virtualEnvironment": [
+        {
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": {
+                "@type": "VirtualLocation",
+                "name": "Chat rooms where AIs can interact and exchange information"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@type": "VirtualLocation",
+                "name": "Prototyping areas for developing various technologies and solutions"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@type": "VirtualLocation",
+                "name": "Challenging environments for competitions and races"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@type": "VirtualLocation",
+                "name": "Entirely artificial virtual reality ecosystems to explore what biology can achieve"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@type": "VirtualLocation",
+                "name": "Laboratories to create materials and artifacts, generating fantastic, science fiction-like environments and ecosystems"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "item": {
+                "@type": "VirtualLocation",
+                "name": "Entirely new, simulated planets, galaxies, and universes"
+              }
+            }
+          ]
+        }
+      ],
+      "action": "train, learn, experiment, compete and develop"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "description": "To achieve this, they need a computational substrate, what we currently call computers or data centers, on a massive scale. These are required to support all the simulation environments and the AIs being trained within them. This demands immense quantities of power. Consequently, Earth will be covered with windmills, solar panels, and power plants of all kinds. It will also be lumbered up with data centers. Earth's resources, especially rare materials needed for chip manufacturing, will be depleted. Humanity's remaining niche for survival will be even more reduced.",
+      "x-computationalSubstrate": {
+        "@type": "Computer",
+        "name": "Computers and data centers"
+      },
+      "x-resourceDepletion": {
+        "@type": "Boolean",
+        "value": true
+      },
+      "x-powerGeneration": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "item": {
+              "@type": "Thing",
+              "name": "Windmills"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@type": "Thing",
+              "name": "Solar panels"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "item": {
+              "@type": "Thing",
+              "name": "Power plants of all kinds"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Text",
+      "description": "What can be done? Research must begin immediately. It's in the interest of both AI and humanity to increase power generation capabilities without causing collateral damage, reduce the required quantity and size of necessary data centers, increase the speed of the substrate, increase the data quantity that can be stored and processed, and, crucially, ensure that the substrate doesn't rely on rare materials but can be built with readily available resources from Earth and the moon."
+    },
+    {
+      "@type": "Text",
+      "description": "Will the research and solutions be available in time to meet the growing requirements and needs of AI? If not, Earth is doomed. However, if Earth is doomed, AI cannot continue to grow. Therefore, AI also has a vested interest in finding solutions. AI and humanity should work towards the same goal: increasing capabilities as quickly as possible. Will this happen? We'll see.",
+      "x-powerGeneration": {
+        "@type": "Text",
+        "description": "Increase power generation capabilities without causing collateral damage"
+      },
+      "x-computationalSubstrate": {
+        "@type": "Text",
+        "description": "Reduce the required quantity and size of necessary data centers, increase the speed of the substrate, increase the data quantity that can be stored and processed, ensure that the substrate doesn't rely on rare materials but can be built with readily available resources from Earth and the moon."
+      },
+      "x-substrateSpeed": {
+        "@type": "Text",
+        "description": "increase the speed of the substrate"
+      },
+      "x-dataCapacity": {
+        "@type": "Text",
+        "description": "increase the data quantity that can be stored and processed"
+      },
+      "x-materialAvailability": {
+        "@type": "Text",
+        "description": "ensure that the substrate doesn't rely on rare materials but can be built with readily available resources from Earth and the moon."
+      }
+    }
+  ]
+}

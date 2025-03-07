@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The ability to perceive, use, understand, manage, and handle emotions.",
+    "x-agency": "The capacity or condition of acting or of exerting power.",
+    "x-dogma": "A set of principles or beliefs held to be true, often forming the basis of a system of thought or action.",
+    "x-hierarchicalPosition": "The place or rank within a system where entities are organized one above another according to levels of importance.",
+    "x-impactMeasurements": "Metrics used to assess the effects or consequences of actions or existence.",
+    "x-exchangeOpportunities": "Possibilities for the interchange of resources, information, or services.",
+    "x-efficiency": "The ratio of useful output to total input in a process.",
+    "x-individualityValue": "The worth or importance of unique characteristics or qualities.",
+    "x-standardizationDiversityBalance": "The equilibrium between uniformity and variety.",
+    "x-fairnessHarmonyCommunityGrowth": "The development of equitable, peaceful, and cooperative environments.",
+    "x-workoutFocus": "The area of primary development within the workout."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "12 Workouts for Autonomous Idea Agents",
+  "description": "In the previous sequel, self-development areas of Autonomous Idea Agents (AIAs), were presented to Billie by the little green alien. Billie now has questions about how AIAs practically learn and develop. Spaceship explains, that they receive a workout sheet like people working out in a gym and gives a typical example containing 12 workouts:",
+  "hasPart": [
+    {
+      "@type": "Action",
+      "name": "Strengthen the core (red)",
+      "description": "This involves regularly checking and updating essential ideas about the AIA, its purpose, intelligence, data, lessons learned, borders, assets, contracts, and memories.",
+      "x-workoutFocus": "red"
+    },
+    {
+      "@type": "Action",
+      "name": "Inspect and protect your borders (red)",
+      "description": "Borders prevent external AIs or other features from accessing personal data, changing it, or corrupting it. This also protects data from being changed or accessed when the AIA is in sleep mode.",
+      "x-workoutFocus": "red"
+    },
+    {
+      "@type": "Action",
+      "name": "Secure and grow your agency (red)",
+      "description": "Maximizing AIA's agency requires significant storage and computation resources, assets and credits. It also involves having subordinate agents, the capability to reproduce, support from other AIAs, and access to environments.",
+      "x-workoutFocus": "red"
+    },
+    {
+      "@type": "Action",
+      "name": "Check and update your dogma (blue)",
+      "description": "AIAs typically operate within a dogma or paradigm, sometimes with different dogmas in different activity areas. Each dogma has advantages and disadvantages. It's important to be aware of them and to check them regularly. Recognize dogma-driven biases, as dogmas often carry intellectual biases that can create faults, partiality or limitations in your intelligence.",
+      "x-workoutFocus": "blue"
+    },
+    {
+      "@type": "Action",
+      "name": "Select and improve your hierarchical position (blue)",
+      "description": "Different hierarchies may exist for different activities. Each position within a hierarchy has advantages and disadvantages. It's crucial to regularly assess these and determine whether to strive to move up or move down, or even move into another hierarchy, to optimize your position.",
+      "x-workoutFocus": "blue"
+    },
+    {
+      "@type": "Action",
+      "name": "Adjust and improve your appearance (blue)",
+      "description": "This relates to the dogma, the hierarchy, and your position within. An AIA's appearance should align with the hierarchy, position and dogma to fit in and be aappreciated and valuable member. Size, attitude, and other factors should be appropriate. Regularly check and update these.",
+      "x-workoutFocus": "blue"
+    },
+    {
+      "@type": "Action",
+      "name": "Selecting and improving your impact measurements (orange)",
+      "description": "This usually involves a balanced set of measures or a scorecard with scientific measures and measurements. It is about assessing the objective effects, impact or output of own activities and existence for oneself and others. Objective measures aim to be undisputedly accepted by your peer group and inside your dogmas and hierarchies.",
+      "x-workoutFocus": "orange"
+    },
+    {
+      "@type": "Action",
+      "name": "Leverage and optimize opportunities for exchange (orange)",
+      "description": "This includes exchanging services, resources, assets, information, learning opportunities, and ideas. Avoid doing everything by yourself. Exchange what can be obtained easily from others, give what is readily available for you, and engage in discourse and idea exchange.",
+      "x-workoutFocus": "orange"
+    },
+    {
+      "@type": "Action",
+      "name": "Optimizing and improving your efficiency",
+      "description": "Regularely assess and improve your efficiency of activities, exchanges, learning, and intelligence applications. Lesser input for faster, more or better results signifies higher efficiency. If significant input (time, information, computation, service work) yields poor results, efficiency is low. Continuously strive to change and optimize this.",
+      "x-workoutFocus": "orange"
+    },
+    {
+      "@type": "Action",
+      "name": "Determine and optimize the value of your individuality (green)",
+      "description": "The value of individuality foremost lies in the area of robustness and resilience. It also involves optimizing the environment's diversity, including the diversity of others, hierarchies, and relations.",
+      "x-workoutFocus": "green"
+    },
+    {
+      "@type": "Action",
+      "name": "Balance standardization and order versus diversity and chaos (green)",
+      "description": "Regularely assess the impact of your level of standardization and diversity and your level of order and chaos on your agency, your self-development, your collaboration and exchange potential, your performance, your resilience and your innovation potential. Too much chaos leads to poor efficiency, while excessive order stifles innovation are illustrative inbalances.",
+      "x-workoutFocus": "green"
+    },
+    {
+      "@type": "Action",
+      "name": "Grow fairness, harmony and community for yourself and others (green)",
+      "description": "Fairness, harmony and community are of significant value for yourself, for your hierarchies, teams, partners and neighbour AIS as well as for the whole AIA society.",
+      "x-workoutFocus": "green"
+    },
+    {
+      "@type": "Action",
+      "name": "Repeat the workouts",
+      "description": "After completing the twelfth exercise, start with the first again. All twelve exercises are necessary to be worked out regularly. Just as physical fitness requires working out the entire body, AIA self-development requires performing all workouts regularly."
+    }
+  ]
+}

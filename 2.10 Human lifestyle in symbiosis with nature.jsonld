@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The ability to understand and manage one's own emotions, and to recognize and influence the emotions of others.",
+    "x-symbioticRelationship": "A close and prolonged association between two or more different biological species.",
+    "x-virtualRealityCommunication": "Communication through immersive, computer-generated environments.",
+    "x-virtualWorldTravel": "Exploration of virtual environments.",
+    "x-biotechnologyAdaptation": "The use of biological processes, organisms, or systems to modify living beings for specific environments.",
+    "x-nanotechnologySupport": "The use of nanotechnology to support various aspects of life, including food production and environmental management.",
+    "x-resourceManagement": "The ability to manage and allocate resources effectively.",
+    "x-yogurtCollaboration": "A metaphorical term referring to a collaborative relationship between humans and AIs, involving mutual support and growth."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 10:\u00a0Human Lifestyles in the Age of Artificial Super Intelligences",
+  "description": "Describes potential human lifestyles in a future where AIs manage the Earth system.",
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "Global System Management",
+      "description": "Earth will be managed as a global system by an AI or AI system to ensure sustainability.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "description": "An AI or system of AIs managing the Earth system.",
+        "x-resourceManagement": "Managing the Earth system and its dependencies."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Human Habitat Selection",
+      "description": "Humans will choose specific environments to live in, adapting to those conditions.",
+      "about": {
+        "@type": "Person",
+        "description": "Humans choosing diverse habitats such as jungles, mountains, deserts, polar regions, underwater, river, pond or marshland."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Community Living",
+      "description": "Humans will live in small, close-knit communities, reminiscent of ancient tribes.",
+      "about": {
+        "@type": "Person",
+        "description": "Groups of under 100 people living in villages or communities, where everybody regularly meets everybody else in person."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Biotechnology Adaptation",
+      "description": "Biotechnology will be used to adapt human bodies, animals, plants, and microorganisms to specific environments.",
+      "about": {
+        "@type": "Person",
+        "x-biotechnologyAdaptation": "Modifying human bodies for environmental adaptation."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Nanotechnology Support",
+      "description": "Nanotechnology will support local food production and some degree of weather control.",
+      "about": {
+        "@type": "Person",
+        "x-nanotechnologySupport": "Using nano-robots for food production and environmental adaptations."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Virtual Connectivity",
+      "description": "Humans will be connected globally through virtual reality communication and virtual world travel.",
+      "about": {
+        "@type": "Person",
+        "x-virtualRealityCommunication": "Staying connected through virtual reality.",
+        "x-virtualWorldTravel": "Exploring virtual and existing physical environments via virtual traveling."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Natural Symbiosis",
+      "description": "Humans will live in close symbiosis with nature, choosing a personal area of interest and responsibility likeplaces, plant groups, animals or animal groups or connected biological sub-systems.",
+      "about": {
+        "@type": "Person",
+        "x-symbioticRelationship": "Living in close symbiosis with nature.",
+        "x-emotionalIntelligence": "Gaining peace of mind and mental strength."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Yogurt Collaboration",
+      "description": "Humans will be valuable for the 'Yogurt-Collaboration' with AIs because symbiotic connections with nature give them mental strength and intuitive power.",
+      "about": {
+        "@type": "Person",
+        "x-yogurtCollaboration": "Collaborating with AIs through mental strength and intuitive power from a symbiotic connection with nature."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Alternative Lifestyles",
+      "description": "Some humans may choose to live entirely in virtual realities or adopt other sci-fi solutions. They will probably be less valuable for 'Yogurt-Collaboration'",
+      "about": {
+        "@type": "Person",
+        "description": "Choosing virtual reality or other sci-fi lifestyle adaptations."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Unsustainable Modern Lifestyle",
+      "description": "The current 'modern' lifestyle is deemed unsustainable for 8+ billion humans.",
+      "about": {
+        "@type": "Person",
+        "description": "The current lifestyle is unsustainable for a large population."
+      }
+    }
+  ]
+}

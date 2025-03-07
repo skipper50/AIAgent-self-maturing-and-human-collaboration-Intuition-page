@@ -1,0 +1,140 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or persons ability to understand and manage emotions, both its own and those of others."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers."
+  },
+  "chapterTitle": "Season 1 Sequel 3",
+  "description": "The story of alien's first adventures with the mind-reading, intelligent spaceship continues",
+  "hasPart": [
+    {
+      "@type": "Event",
+      "name": "Alien's First Adventures",
+      "description": "Alien playfully explored how things work, and the spaceship often surprised it.",
+      "location": {
+        "@type": "ArtificialIntelligence",
+        "name": "Intelligent Spaceship",
+        "description": "A mind-reading, intelligent spaceship."
+      },
+      "agent": {
+        "@type": "Person",
+        "name": "Alien",
+        "description": "A little green alien, representing future human potential."
+      },
+      "action": [
+        {
+          "@type": "Action",
+          "name": "Thinking about rolling a ball",
+          "description": "Alien was thinking of a ball it could roll down a hill.",
+          "object": {
+            "@type": "Thing",
+            "name": "Ball",
+            "description": "A spherical object."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Creating a ball and bricks",
+          "description": "The spaceship created a ball and some bricks so the alien could build a hill.",
+          "instrument": [
+            {
+              "@type": "Thing",
+              "name": "Ball",
+              "description": "A spherical object."
+            },
+            {
+              "@type": "Thing",
+              "name": "Bricks",
+              "description": "Building blocks."
+            }
+          ]
+        },
+        {
+          "@type": "Action",
+          "name": "Building and playing with the hill",
+          "description": "The alien built a hill and had so much fun placing the ball and letting it roll. 'That's fun!' the alien exclaimed.",
+          "object": {
+            "@type": "Thing",
+            "name": "Hill",
+            "description": "An elevated landform."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Creating a bigger hill",
+          "description": "The alien had the idea for a bigger, longer hill—really long! The spaceship created it, but it soon became boring. 'Not a great idea,' the alien thought.",
+          "object": {
+            "@type": "Thing",
+            "name": "Hill",
+            "description": "An elevated landform."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Creating a track with curves",
+          "description": "The alien thought more about what it could do and came up with the idea of a track with curves. The spaceship created bricks with steps for balls so the alien could build different types of tracks. 'That's fun again!' the alien exclaimed.",
+           "object": {
+            "@type": "Thing",
+            "name": "Track",
+            "description": "A path or course."
+          },
+          "instrument": {
+            "@type": "Thing",
+            "name": "Bricks with steps",
+            "description": "Bricks designed for building tracks."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Creating obstacles",
+          "description": "The alien wanted to put obstacles on the hill so the balls would 'click here, tick there,' and take all kinds of winding routes down the hill. The spaceship created something with many balls and regular obstacles. No matter how the alien placed the balls, they all followed the same pattern. 'Interesting!' the alien observed.",
+          "object": {
+            "@type": "Thing",
+            "name": "Obstacles",
+            "description": "Barriers or impediments."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Comparing ball speeds",
+          "description": "The alien's next idea was to have two balls falling at the same time to see if one was faster than the other. The spaceship provided another option: sensors—four of them—that measured the speed of the ball. Then, it gave the alien different balls—different sizes, weights, and shapes. 'Wow, they all have the same speed!' the alien exclaimed.",
+          "object": {
+            "@type": "Thing",
+            "name": "Balls",
+            "description": "Spherical objects."
+          },
+          "instrument": {
+            "@type": "Thing",
+            "name": "Sensors",
+            "description": "Devices for measuring speed."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Parachuting",
+          "description": "The alien wanted to have some fun and wanted to fall itself. The spaceship rose up into the sky, gave the alien a parachute and a push, and 'wow, fun!' the alien exclaimed.",
+          "object": {
+            "@type": "Thing",
+            "name": "Parachute",
+            "description": "A device for slowing descent."
+          }
+        },
+        {
+          "@type": "Action",
+          "name": "Riding a roller coaster",
+          "description": "As a closing act, the spaceship created a roller coaster for the little alien. 'Wow, that was super fun!' the alien exclaimed. Working with the spaceship usually was really fun for the little alien. Playful, enjoyable, and lots of fun—that's how it should be!",
+          "object": {
+            "@type": "Thing",
+            "name": "Roller Coaster",
+            "description": "An amusement park ride."
+          }
+        }
+      ]
+    }
+  ],
+  "keywords": "#playful_learning"
+}

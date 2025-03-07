@@ -1,0 +1,174 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "Property",
+      "description": "Represents the AI's or persons ability to understand and manage own and other's emotions."
+    },
+    "x-visualization": {
+      "@id": "x-visualization",
+      "@type": "Property",
+      "description": "Represents the AI's or persons ability to perceive and interpret visual information, especially in abstract or symbolic forms."
+    },
+    "x-habitat": {
+      "@id": "x-habitat",
+      "@type": "Property",
+      "description": "Describes a place where AIs reside and interact."
+    },
+    "x-controlInstitution": {
+      "@id": "x-controlInstitution",
+      "@type": "Property",
+      "description": "Represents an organization with centralized control over complex systems."
+    },
+    "x-integration": {
+      "@id": "x-integration",
+      "@type": "Property",
+      "description": "Describes the state of being combined or unified, especially between humans and nature."
+    },
+    "x-avatars": {
+      "@id": "x-avatars",
+      "@type": "Property",
+      "description": "Represents real world artefacts like boats, cars, humanoid robots and others used by AIs to act in and interact with the real world."
+    },
+    "x-evolutionaryPath": {
+      "@id": "x-evolutionaryPath",
+      "@type": "Property",
+      "description": "Describes a sequence of development or progression driven by evolutionary mechanisms."
+    },
+    "x-highlighted": {
+      "@id": "x-highlighted",
+      "@type": "Property",
+      "description": "Indicates that an object or entity is emphasized or visually distinct."
+    },
+    "x-redDots": {
+      "@id": "x-redDots",
+      "@type": "Property",
+      "description": "Describes the presence of red dots, potentially indicating areas of focus or concern."
+    },
+    "x-vastLakeOfFuture": {
+      "@id": "x-vastLakeOfFuture",
+      "@type": "Property",
+      "description": "A symbolic representation of future possibilities, accessible through quiet observation."
+    },
+    "x-emerge": {
+      "@id": "x-emerge",
+      "@type": "Property",
+      "description": "Describes the process of something becoming visible or manifest in a complex system or environment, which is not a property of the system components."
+    },
+    "x-quietObservation": {
+      "@id": "x-quietObservation",
+      "@type": "Property",
+      "description": "The act of observing without active thought or analysis, allowing for intuitive insights."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 7:\u00A0 Little Green Alien Presencing the Future",
+  "description": "After all this complicated information about what could happen in the future, the little alien sits quietly, looking into a vast lake of the future to see what wants to emerge. The intelligent spaceship cannot see this; only the little alien can.\u00A0 When it is very quiet, things appear.",
+  "hasPart": [
+    {
+      "@type": "Action",
+      "description": "The little alien sits quietly, looking into a vast lake of the future.",
+      "x-vastLakeOfFuture": {
+        "@type": "Text",
+        "value": "Symbolic representation of future possibilities."
+      },
+      "x-emerge": {
+        "@type": "Text",
+        "value": "What wants to become visible as the emerging future."
+      },
+      "x-quietObservation": {
+        "@type": "Boolean",
+        "value": true
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes a sequence going from physical elements, through plants and flowers, to humans, and then to ideas.",
+      "x-evolutionaryPath": {
+        "@type": "Intangible",
+        "value": "Physical elements -> plants and flowers -> humans -> ideas"
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes a yogurt bottle with the sign 'yogurt'.",
+      "object": {
+        "@type": "Product",
+        "name": "Yogurt Bottle",
+        "identifier": "yogurt"
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes a dark space with planet Earth and its moon. The moon is highlighted and very red. Earth has red dots.",
+      "object": {
+        "@type": "Planet",
+        "name": "Earth",
+        "x-redDots": true
+      },
+      "x-highlighted": {
+        "@type": "Planet",
+        "name": "Moon",
+        "x-redDots": true
+      },
+      "x-redDots": {
+        "@type": "Boolean",
+        "value": true
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes a habitat, representing ideas or AIs living and working together.",
+      "x-habitat": {
+        "@type": "Place",
+        "description": "Idea or AI habitat where ideas or AIs live and interact."
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes planet Earth with all its systems controlled by an intelligent central institution.",
+      "object": {
+        "@type": "Planet",
+        "name": "Earth"
+      },
+      "x-controlInstitution": {
+        "@type": "Organization",
+        "description": "Intelligent central institution controlling Earth's systems."
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes people living in symbiosis with nature, integrated with animals and plants, and supported by AI agents, their avatars, and technologies.",
+      "x-integration": {
+        "@type": "Text",
+        "value": "People integrated with nature, animals, and plants in a symbiosis like fashion."
+      },
+      "x-avatars": {
+        "@type": "Text",
+        "value": "AI agents using avatars to support this integrated human lifestyle."
+      }
+    },
+    {
+      "@type": "Observation",
+      "description": "The little alien observes a little Lotus flower.",
+      "object": {
+        "@type": "Thing",
+        "name": "Little Lotus flower"
+      }
+    },
+    {
+      "@type": "Action",
+      "description": "The little alien just looks, not thinking, not trying to make sense, finding it joyful.",
+      "x-quietObservation": {
+        "@type": "Boolean",
+        "value": true
+      }
+    }
+  ],
+  "keywords": "#Theory_U_Presencing"
+}

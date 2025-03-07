@@ -1,0 +1,148 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "Emotional intelligence, the ability to understand and manage one's own emotions, as well as recognize the emotions of others.",
+    "x-probability": "The likelihood of a particular event occurring, expressed as a number between 0 and 1, or as a percentage.",
+    "x-developmentPath": "The trajectory or course of progress or change over time, especially in the context of global development."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 3:  How Will Global Politics, Economy, and Culture Develop?",
+  "description": "This sequel explores the potential directions of emerging developments in global politics, governance, economy, and culture. Two primary paths are considered: a positive, 'green' development and a destructive, 'red' development. It follows the collaboration approach of Alien and Spaceship, using #Theorie_U, where they first identify the emerging question, then Spaceship provides background information and viewpoints, laying the foundation for presencing the emerging future.",
+  "mentions": [
+    {
+      "@type": "Person",
+      "name": "Alien",
+      "description": "A symbolic representation of future human potential. Collaborating with Billie and Spaceship."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Spaceship",
+      "description": "An Intelligent Spaceship providing background information and various viewpoints on different dimensions related to the emerging question."
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Billie",
+      "description": "Collaborating with Alien in the process of identifying the emerging question."
+    },
+    {
+      "@type": "Event",
+      "name": "Theorie_U",
+      "description": "A proven collaboration approach used by Alien and Spaceship."
+    },
+    {
+      "@type": "Concept",
+      "name": "Green Development",
+      "x-developmentPath": "Positive",
+      "description": "A positive global agenda where nations, people, and races unite. They would build a global network to manage the economy, culture, and nature collaboratively. This would allow nature to flourish, ensure fairer incomes, and promote equitable wealth distribution.",
+      "potentialAction": {
+        "@type": "Action",
+        "name": "Build Global Network",
+        "description": "Creating a network for collaborative management."
+      },
+      "result": [
+          {
+            "@type": "Concept",
+            "name": "Flourishing Nature",
+            "description": "Nature thriving due to collaborative management."
+          },
+          {
+            "@type": "Concept",
+            "name": "Fairer Incomes",
+            "description": "More equitable distribution of income."
+          },
+          {
+            "@type": "Concept",
+            "name": "Equitable Wealth Distribution",
+            "description": "Fairer distribution of wealth."
+          }
+        ]
+    },
+    {
+      "@type": "Concept",
+      "name": "Red Development",
+      "x-developmentPath": "Destructive",
+      "description": "Humanity sabotaging itself and destroying its environment. This path involves increasing environmental destruction, accelerating climate change, widening wealth inequality, and the expansion of industrialized food production with its associated chemical use and environmental damage.",
+      "potentialAction": [
+        {
+          "@type": "Action",
+          "name": "Increase Environmental Destruction"
+        },
+        {
+          "@type": "Action",
+          "name": "Accelerate Climate Change"
+        },
+        {
+          "@type": "Action",
+          "name": "Widen Wealth Inequality"
+        },
+        {
+          "@type": "Action",
+          "name": "Expand Industrialized Food Production",
+          "description": "Including chemical use and environmental damage."
+        }
+      ]
+    },
+    {
+      "@type": "Concept",
+      "name": "Global Politics",
+      "description": "The political interactions and governance at a global level."
+    },
+    {
+      "@type": "Concept",
+      "name": "Global Economy",
+      "description": "The interconnected economic systems and activities at a global level."
+    },
+    {
+      "@type": "Concept",
+      "name": "Global Culture",
+      "description": "The shared values, beliefs, customs, behaviors, and artifacts that characterize people and groups at a global level."
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "Intangible",
+      "name": "Probability Estimation",
+      "description": "The estimation of the probability of each development path.",
+      "partOf": {
+        "@type": "CreativeWork",
+        "name": "Season 2 Sequel 3"
+      },
+      "about": [
+        {
+          "@type": "Concept",
+          "name": "Green Development"
+        },
+        {
+          "@type": "Concept",
+          "name": "Red Development"
+        }
+      ],
+      "x-probability": [
+        {
+          "agent": {
+            "@type": "ArtificialIntelligence",
+            "name": "Spaceship"
+          },
+          "green": 0.2,
+          "red": 0.8,
+          "description": "Spaceship estimates a 20% chance for the 'green' scenario and an 80% chance for the 'red' scenario."
+        },
+        {
+          "agent": {
+            "@type": "Person",
+            "name": "Alien"
+          },
+          "green": 0.3,
+          "red": 0.7,
+          "description": "The little green alien is slightly more optimistic, estimating 30% for 'green' and 70% for 'red'."
+        }
+      ],
+      "observation": "Both projections suggest a less than optimistic outlook for positive global development. This is one of four areas where emergence may occur, and it doesn't appear promising thus far."
+    }
+  ],
+  "keywords": "#Theorie_U"
+}

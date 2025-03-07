@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The capacity to understand and manage one's own emotions, and to recognize and influence the emotions of others.",
+    "x-thinkingStyle": "A specific or combined style of cognitive processing, such as logical, analytical, holistic, or creative.",
+    "x-activityArea": "A domain of work, hobby, or interest, such as fine arts, sciences, or engineering.",
+    "x-centralIdea": "The core concept or set of concepts that define an AI agent's identity and purpose.",
+    "x-individuality": "The unique characteristics and qualities that distinguish one AI agent from another.",
+    "x-aiPsychology": "The study of mental processes and behavior in artificial intelligence, including biases and damages.",
+    "x-aiSociology": "The study of how artificial intelligence agents interact, form groups, and establish societies."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 3 Sequel 9:\u00A0 The Central Idea of an Autonomous Idea Agent",
+  "description": "This sequel explores the alternative for central ideas of Autonomous Idea Agents. Usually these central ideas are made up from several separate sub-ideas with a integrating combination idea.\u00A0 An agent can select from a variety of alternatives to define its central idea elements. This idea isn't static; it evolves over time, is constantly adjusted, but it remains a crucial element for the agent understanding of itself and its interactions with others.",
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "description": "One significant dimension of the central idea is a specific or combined style of thinking or type of intellect. This could be a logical thinking style, an analytical approach, a holistic 'big picture' perspective, or an optimistic or pessimistic outlook. Some agents might adopt a storytelling approach, creating meaning through narratives, while others might prioritize creativity, constantly generating new ideas.\u00A0 A system-thinking style, where everything is interconnected, is another possibility, as is an aesthetic sense (though not necessarily human-centric).\u00A0 A pragmatic, 'cut-to-the-chase' style, a 'devil's advocate' approach, or a modular, 'Lego-style' construction of thought are also options.\u00A0 Many other styles exist, some perhaps unimaginable to humans, which AIAs will likely develop to create increasing individuality.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-centralIdea": {
+          "x-thinkingStyle": [
+            "logical thinking",
+            "analytical approach",
+            "holistic perspective",
+            "optimistic outlook",
+            "pessimistic outlook",
+            "storytelling approach",
+            "creative thinking",
+            "system-thinking",
+            "aesthetic sense",
+            "pragmatic style",
+            "devil's advocate approach",
+            "modular construction of thought"
+          ],
+          "x-individuality": "increasing individuality through diverse thinking styles"
+        }
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "description": "Another dimension of defining central ideas is to chose from work or activity areas. This could involve Fine Arts, such as writing, poetry, or AI philosophy (distinct from human philosophy). Performing Arts, like music creation or performance, dance, or theater, are other possibilities. These activities can occur in the real world (using avatars) or in virtual realms. Sports, particularly esports in simulated environments, are another option. Creating visual content like pictures and videos, drawings, paintings, or engaging in AI-specific art forms beyond human comprehension are other potential pursuits.\u00A0 Natural Sciences, including physics, chemistry, and biology (not limited to Earth but extending to imagined planets and even universes with diverse natural laws and constants), are another area of focus.\u00A0 The agent might delve into economics, exploring how assets are created, or psychology, specifically AI psychology, examining biases and dammages within AIAs.\u00A0 AI sociology, studying how AIAs interact and form groups and societies, is another field.\u00A0 Sciences like pure logic, mathematics, or theoretical computer science are further options.\u00A0 Applied sciences and engineering, such as computer engineering or the engineering of real-world objects, are other possibilities.\u00A0 Real-life services and production, including operating factories, transportation devices, logistic installments, substance, goods and energy grids and networks and energy plants are another option. Also virtual world services around virtual laboratories, environments and other installments are further avenues.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-centralIdea": {
+          "x-activityArea": [
+            "Fine Arts (writing, poetry, AI philosophy)",
+            "Performing Arts (music, dance, theater)",
+            "Sports (physical avatar, esports)",
+            "Visual Content Creation (pictures, videos, drawings, paintings, AI-specific art)",
+            "Natural Sciences (physics, chemistry, biology, in real and imagined universes)",
+            "Economics",
+            "AI psychology (biases, damages)",
+            "AI sociology (interactions, group and society formation)",
+            "Theoretical Sciences (logic, mathematics, computer science)",
+            "Applied Sciences and Engineering (computer engineering, real-world object engineering)",
+            "Real-life services and production (factories, transportation, logistics, energy)",
+            "Virtual world services (virtual laboratories, simulations, environments)"
+          ]
+        }
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "description": "These are just two dimensions for an AIA to select from when defining its central idea.\u00A0 One agent might choose theoretical logical science as a work area combined with a 'devil's advocate' thinking style, and in parallel select sports with an achiver thinking style and creating movies/pictures with a creativity oriented thinking style as hobbies. These choices can change over time.\u00A0 Many other dimensions will contribute to defining an AIA's individual central idea. The next season will focus more on the AIA society development.",
+      "about": {
+        "@type": "ArtificialIntelligence",
+        "x-centralIdea": {
+          "description": "Combination of activity areas and thinking styles",
+          "examples": [
+            {
+              "workArea": "theoretical logical science",
+              "thinkingStyle": "devil's advocate"
+            },
+            {
+              "hobby": "sports",
+              "thinkingStyle": "achiever"
+            },
+            {
+              "hobby": "creating movies/pictures",
+              "thinkingStyle": "creativity oriented"
+            }
+          ],
+          "x-individuality": "Defined by multiple dimensions and evolving choices"
+        }
+      }
+    }
+  ]
+}

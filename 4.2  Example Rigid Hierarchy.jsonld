@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "The capacity to understand and manage one's own emotions, and to recognize and influence the emotions of others.",
+    "x-strategicOperations": "The ability to plan and execute long-term goals and strategies.",
+    "x-physicalPlantManagement": "The ability to oversee and manage physical infrastructure and resources.",
+    "x-teamLeadership": "The ability to effectively guide and direct a team of agents or individuals.",
+    "x-specialistExpertise": "Deep knowledge and skill in a specific area or domain.",
+    "x-taskEnvironmentStability": "The degree to which the environment in which a task is performed remains consistent and predictable.",
+    "x-autonomousIdeaAgent": "An AI agent with the capability to generate and develop the core idea(s) about itself and its agency autonomously."
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 4 Sequel 2:\u00A0 Rigid AI Agent Hierarchy",
+  "description": "This example illustrates a rigid artificial intelligent agent hierarchy, one that doesn't change rapidly.\u00A0 This specific hierarchy manages a power facility.",
+  "hasPart": [
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Top-Level Agent",
+      "description": "Responsible for the entire energy facility. Handles strategic operations, looking far into the future, overseeing all operations and optimizations, establishing long-term strategies, and defining operational principles, rules, and basics.",
+      "x-strategicOperations": "High",
+      "x-autonomousIdeaAgent": "Required"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Physical Plant Oversight Agent",
+      "description": "Oversees a physical plant. Acts as a conductor, directing operations in that specific area, managing agents (new and old), handling assets and resources, creating plans, and ensuring their execution.",
+      "x-physicalPlantManagement": "High",
+      "x-autonomousIdeaAgent": "Recommended"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Team Leadership Agent",
+      "description": "Manages specific elements and their sub-agents (if any), creating and utilizing information, and ensuring tasks are completed.",
+      "x-teamLeadership": "High",
+      "x-autonomousIdeaAgent": "Possible"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Specialist Agent",
+      "description": "Focuses on a single area of expertise. These agents vary significantly, some specialized in one thing, others in several.",
+      "x-specialistExpertise": "High",
+      "x-autonomousIdeaAgent": "Possible"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Physical Facility Agents",
+      "description": "Manage the physical facility, including individual windmills and energy storage devices. Coordinated by a higher-level agent.",
+      "x-autonomousIdeaAgent": "Recommended"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Simulation and Optimization Agents",
+      "description": "Operate and participate in simulations for different windmill types and park impacts.",
+      "x-autonomousIdeaAgent": "Recommended"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Prototyping Facility Agents",
+      "description": "Oversee robots and manufacturing devices via sub-agents to improve windmill types and components.",
+      "x-autonomousIdeaAgent": "Recommended"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Operations Agent",
+      "description": "Operates the entire facility, managing elements, weather, and energy requests.",
+      "x-autonomousIdeaAgent": "Recommended"
+    }
+  ],
+  "keywords": [
+    "#ArtificialIntelligence",
+    "#AgentHierarchy",
+    "#EnergyFacility",
+    "#AutonomousAgents",
+    "#RigidHierarchy",
+    "#PhysicalPlant",
+    "#Simulation",
+    "#Prototyping",
+    "#OperationsManagement"
+  ],
+  "additionalInformation": {
+    "taskEnvironmentStability": "High",
+    "hierarchyType": "Rigid",
+    "reasonForRigidity": "The physical energy facility, prototyping facility, and monitoring institution must be online all the time and act in a well-designed, predictable manner."
+  }
+}

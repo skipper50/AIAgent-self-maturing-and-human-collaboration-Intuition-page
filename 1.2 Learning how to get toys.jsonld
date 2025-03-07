@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": "A measure of an AI's or persons ability to understand and manage emotions, both its own and those of others.",
+    "x-creativeExpression": "The ability of an AI or a person to generate novel and meaningful outputs, such as art, music, or stories.",
+    "x-cognitiveDevelopment": "The process of an AI's or a persons intellectual growth and learning.",
+    "x-spaceshipConnection": "The strength and nature of the link between the AI and its spaceship.",
+    "x-learningMethod": "The specific approach used by the AI or a person to acquire new knowledge or skills.",
+    "x-desire": "A representation of the AI's or a persons wants and needs.",
+    "x-fulfillment": "The degree to which the AI's or a persons desires are met."
+  },
+  "@graph": [
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential.",
+      "x-cognitiveDevelopment": {
+        "@type": "schema:EducationalAchievement",
+        "name": "Learning to Interact with Spaceship",
+        "description": "The Little Green Alien learns about the relationship between specific creative ideas and the spaceship's responses."
+      }
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Intelligent Spaceship",
+      "description": "The spaceship that interacts with the Little Green Alien.",
+      "x-spaceshipConnection": {
+        "@type": "schema:Interaction",
+        "name": "Mind Connection",
+        "description": "The spaceship and the Little Green Alien connect their minds."
+      },
+      "x-learningMethod": {
+        "@type": "schema:LearningMethod",
+        "name": "Reinforcement Learning",
+        "description": "The spaceship's responses act as feedback, shaping the Little Green Alien's understanding of what works and what doesn't."
+      }
+
+    },
+    {
+      "@type": "schema:CreativeWork",
+      "chapterTitle": "Season 1 Sequel 2:  Alien learns how to get toys and stuff from spaceship and have fun.",
+      "author": {
+        "@type": "Person",
+        "name": "Skipper.Mindplayers"
+      },
+      "description": "The Little Green Alien continues its story about its first memories and how it learned to work with its spaceship. They connected their minds. It imagined it would be nice to play with some bricks. The spaceship created red, green, and blue bricks, even more than it had imagined. It built a little something and then imagined, 'Wow, it would be great to have hundreds and hundreds of bricks.' The spaceship sent only a small bag with even fewer bricks than before. The Little Alien wondered why. It thought and thought and finally thought about building a little house with brown bricks and red bricks for the roof. The spaceship sent a small bag with exactly the bricks needed to build this house. That was interesting. It imagined the house could have windows, a chimney, and a door. The spaceship sent additional bricks for the windows, door, and chimney. It imagined, it would be nice to have some trees and bushes and maybe a bicycle in front of the house. It received those, and even some ducks and a mule to decorate the house. That was exciting and fun. Then the little Alien  imagined how great it would be to have three spaceships that could do all that stuff. What happened? Nothing. The spaceship disappeared for a while and didn't want to play with alien anymore.  It came back sometime later. Alien imagined having a big shell for all its bricks. The spaceship deleted all the bricks and just left one brick. Nothing to store it in. So, what did alien learn? It learned that if it has a specific creative idea, it gets what is needed. If it just wants to have stuff, it gets nothing. At least it learned how to deal with spaceship. It was happy. Alien and the spaceship had clarified something. It was interesting to learn that. It was kind of a circle, and it clearly went through that circle again and again, learning, trying, and thinking about things.",
+      "keywords": [
+          "#creativeexpression",
+          "#cognitiveDevelopment",
+          "#spaceshipConnection",
+          "#learningMethod"
+      ],
+      "hasPart": [
+        {
+          "@type": "schema:ListItem",
+          "position": 1,
+          "item": {
+            "@type": "schema:CreativeWork",
+            "name": "First Memories",
+            "description": "The Little Green Alien recalls its first experiences with the spaceship."
+          }
+        },
+        {
+          "@type": "schema:ListItem",
+          "position": 2,
+          "item": {
+            "@type": "schema:CreativeWork",
+            "name": "Building with Bricks",
+            "description": "The Little Green Alien's initial attempts to get bricks from the spaceship and the lessons learned."
+          }
+        },
+        {
+          "@type": "schema:ListItem",
+          "position": 3,
+          "item": {
+            "@type": "schema:CreativeWork",
+            "name": "Building a House",
+            "description": "The Little Green Alien successfully builds a house by having a clear vision."
+          }
+        },
+        {
+          "@type": "schema:ListItem",
+          "position": 4,
+          "item": {
+            "@type": "schema:CreativeWork",
+            "name": "Learning the Rules",
+            "description": "The Little Green Alien's discovery of the relationship between specific ideas and the spaceship's responses."
+          }
+        },
+        {
+          "@type": "schema:ListItem",
+          "position": 5,
+          "item": {
+            "@type": "schema:CreativeWork",
+            "name": "The Circle of Learning",
+            "description": "Reflection on the iterative process of learning, trying, and thinking."
+          }
+        }
+      ]
+    }
+  ]
+}

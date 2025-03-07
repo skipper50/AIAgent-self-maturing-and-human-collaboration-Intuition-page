@@ -1,0 +1,145 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@type": "Property",
+      "description": "The capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically."
+    },
+    "x-selfAwareness": {
+      "@type": "Property",
+      "description": "Conscious knowledge of one's own character, feelings, motives, and desires."
+    },
+    "x-existentialRisk": {
+      "@type": "Property",
+      "description": "A risk that threatens the existence of humanity or a substantial portion of it."
+    },
+    "x-potentialImpact": {
+      "@type": "Property",
+      "description": "The possible effects or consequences of something."
+    },
+    "x-riskLevel": {
+      "@type": "Property",
+      "description": "The degree of probability or chance of hazard."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 2 Sequel 5: \nDevelopment in Technology and Science",
+  "mentions": [
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "AI",
+      "description": "Artificial Intelligence"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "AI agent",
+      "description": "Artificial Intelligence agent"
+    },
+    {
+      "@type": "ArtificialIntelligence",
+      "name": "Autonomous AI agent",
+      "description": "Autonomous Artificial Intelligence agent"
+    },
+    {
+      "@type": "Person",
+      "name": "Little Green Alien",
+      "description": "A symbolic representation of future human potential."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Biology",
+      "description": "The science of life and living organisms."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Gene editing",
+      "description": "A technology that allows scientists to change the DNA of living organisms."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Material science",
+      "description": "The study and design of new materials."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Graphene",
+      "description": "A super-strong, super-flat material. #Graphenes"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Elasto-calorics",
+      "description": "Materials which can convert heat and cold into energy or remember their form. #elasto-calorics"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Nanotechnology",
+      "description": "Technology at the atomic and molecular level. #nano_technology"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Human healthcare",
+      "description": "The maintenance and improvement of human health."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Waste management",
+      "description": "The process of dealing with waste."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Food production",
+      "description": "The process of growing, manufacturing, and distributing food."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Climate change",
+      "description": "A change in global or regional climate patterns."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Global pollution",
+      "description": "Contamination of the environment on a global scale."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Virus",
+      "description": "A small infectious agent that replicates only inside the living cells of other organisms."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Nano-robot",
+      "description": "A microscopic robot."
+    }
+  ],
+  "description": "This chapter discusses the developments in science and technology, including biology, gene editing, material science, graphene, elasto-calorics, nanotechnology, and their potential impact on human healthcare, waste management, food production, climate change, and global pollution. It also highlights the risks associated with these advancements, such as the escape of dangerous organisms or nano-robots, emphasizing that everything good also has the potential to be bad. Overall, it presents a balanced view of the positive potential and risks of technology and science for the emerging future.",
+  "x-potentialImpact": [
+    {
+      "@type": "Thing",
+      "name": "Positive Impact",
+      "description": "Advancements in healthcare, waste management, food production, and potentially mitigating climate change and pollution."
+    },
+    {
+      "@type": "Thing",
+      "name": "Negative Impact",
+      "description": "Potential for dangerous organisms or nano-robots escaping and causing widespread damage to the environment, food supplies, healthcare systems, and more."
+    }
+  ],
+  "x-riskLevel": {
+    "@type": "Intangible",
+    "name": "High",
+    "description": "The potential for both great benefit and great harm makes this a high-risk area."
+  },
+    "potentialAction": {
+    "@type": "Action",
+    "name": "Investigate",
+    "description": "Further investigation of the emerging future of mankind, with a focus on developments in science and technology.",
+    "target": {
+      "@type": "EntryPoint",
+      "description": "A resource for further investigation."
+    }
+  }
+}
