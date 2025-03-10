@@ -19,7 +19,7 @@
     "name": "Skipper.Mindplayers"
   },
   "chapterTitle": "12 Workouts for Autonomous Idea Agents",
-  "description": "In the previous sequel, self-development areas of Autonomous Idea Agents (AIAs), were presented to Billie by the little green alien. Billie now has questions about how AIAs practically learn and develop. Spaceship explains, that they receive a workout sheet like people working out in a gym and gives a typical example containing 12 workouts:",
+  "description": "In the previous sequel, self-maturing areas of Autonomous Idea Agents (AIAs), were presented to Billie by the little green alien. Billie now has questions about how AIAs practically learn and develop. Spaceship explains, that they receive a workout sheet like people working out in a gym and gives a typical example containing 12 workouts:",
   "hasPart": [
     {
       "@type": "Action",
@@ -84,7 +84,7 @@
     {
       "@type": "Action",
       "name": "Balance standardization and order versus diversity and chaos (green)",
-      "description": "Regularely assess the impact of your level of standardization and diversity and your level of order and chaos on your agency, your self-development, your collaboration and exchange potential, your performance, your resilience and your innovation potential. Too much chaos leads to poor efficiency, while excessive order stifles innovation are illustrative inbalances.",
+      "description": "Regularely assess the impact of your level of standardization and diversity and your level of order and chaos on your agency, your self-maturing, your collaboration and exchange potential, your performance, your resilience and your innovation potential. Too much chaos leads to poor efficiency, while excessive order stifles innovation are illustrative inbalances.",
       "x-workoutFocus": "green"
     },
     {
@@ -96,7 +96,7 @@
     {
       "@type": "Action",
       "name": "Repeat the workouts",
-      "description": "After completing the twelfth exercise, start with the first again. All twelve exercises are necessary to be worked out regularly. Just as physical fitness requires working out the entire body, AIA self-development requires performing all workouts regularly."
+      "description": "After completing the twelfth exercise, start with the first again. All twelve exercises are necessary to be worked out regularly. Just as physical fitness requires working out the entire body, AIA self-maturing requires performing all workouts regularly."
     }
   ]
 }

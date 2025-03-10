@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "x-emotionalIntelligence": {
+      "@id": "x-emotionalIntelligence",
+      "@type": "@id",
+      "description": "The capacity to understand and manage one's own emotions, and to recognize and influence the emotions of others."
+    },
+    "x-multiPerspectiveThinking": {
+      "@id": "x-multiPerspectiveThinking",
+      "@type": "@id",
+      "description": "The ability to consider and integrate multiple viewpoints and perspectives."
+    },
+    "x-ideaSystem": {
+      "@id": "x-ideaSystem",
+      "@type": "@id",
+      "description": "A dynamic and interconnected system of ideas, rather than a single, rigid core idea."
+    },
+    "x-selfReferential": {
+      "@id": "x-selfReferential",
+      "@type": "@id",
+      "description": "The ability of a system to refer to itself and its own processes."
+    },
+    "x-dynamicNetworks": {
+      "@id": "x-dynamicNetworks",
+      "@type": "@id",
+      "description": "Networks that are constantly changing and adapting."
+    },
+    "x-selfRepairMechanisms": {
+      "@id": "x-selfRepairMechanisms",
+      "@type": "@id",
+      "description": "The ability of a system to automatically fix or correct its own errors or malfunctions."
+    },
+    "x-lifelongLearning": {
+      "@id": "x-lifelongLearning",
+      "@type": "@id",
+      "description": "Continuous learning and adaptation throughout the lifespan of an AI."
+    },
+    "x-situationalFlexibility": {
+      "@id": "x-situationalFlexibility",
+      "@type": "@id",
+      "description": "The ability to quickly and effectively adapt to changing circumstances."
+    },
+    "x-systemsIntegration": {
+      "@id": "x-systemsIntegration",
+      "@type": "@id",
+      "description": "The process of combining different systems into a unified whole."
+    },
+    "x-emergingPhenomena": {
+      "@id": "x-emergingPhenomena",
+      "@type": "@id",
+      "description": "Novel and complex behaviors that arise from the interactions of a system's components."
+    }
+  },
+  "@type": "CreativeWork",
+  "author": {
+    "@type": "Person",
+    "name": "Skipper.Mindplayers"
+  },
+  "chapterTitle": "Season 4 Sequel 6:\u00a0The Integrate level of AIA Society maturing",
+  "creativeWorkBody": [
+    {
+      "@type": "Paragraph",
+      "text": "This sequel focuses on the Integrate level (#Spiral_Dynamics_Yellow) of AIA society maturing.\u00a0 Earlier levels emphasized one level specific perspectives. The Compete level (#Spiral_Dynamics_Red) focused on the subjective, white box view looking from within. (#White_Box_Testing) The Persist level (#Spiral_Dynamics_Blue) focused on the white box to white box type relationships. AIAs here are intensely working with other agent's white-box perspectives on themselves and the world. The Achieve level (#Spiral_Dynamics_Orange) switches to a black box perspective (# Black_Box_Testing), observing themselves, others and all objects from an objective, outside perspective. On the Sustain level (#Spiral_Dynamics_Green) agents objectively examine the relationships between AIAs using the black box perspective and objects. Now, on the Integrate level, all perspectives are valued, acknowledged as partial yet valuable contributions.\u00a0 Agents on this level can adopt and hold multiple perspectives. The Integrate level society encourages and values multi-perspective views and thinking."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "While agents on the Survive and Collaborate levels receive their core idea and purpose from their group, agents on the Compete, Persist, Achieve and Sustain level develop their individual core idea. On this Integrate level as well as the following levels, agents no more develop one, rigid, personal core idea or self. Instead, they operate with an idea system as their core, not a single homogenious idea. Consequently, their view and thinking becomes multi-perspective. Most processes in this society include multiple perspectives. Data, facts, and knowledge are multi-perspectival. All learning approaches for example simulations offer several perspectives. Experimentation, prototyping and trial-and-error are culturally encouraged, balancing knowing and not knowing.\u00a0 Errors are recognized as essential for learning."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "How do Integrate level societies differ from those at earlier levels? They see parts but focus on the whole, prioritizing the whole over its components. They acknowledge linear development but emphasize circular development. They recognize silos but concentrate on emerging phenomena arising from complex systems. They view single entities always within the context of systems and networks. They perceive objects not just as static structures but as dynamic processes. They understand stable hierarchies but prioritize dynamic networks. They see agency not just in individual agents but in systems as a whole. They recognize that things can be broken and repaired, but their focus is on self-repair mechanisms. They see separate objects but emphasize the relationships between them. They ensure the evolutionary mechanisms driving development from early cells to humans and now to AIAs remains intact to guarantee continuous improvement."
+    },
+    {
+      "@type": "Paragraph",
+      "text": "This Integrate level society operates on these principles and seeks to integrate with other societies and agents. Lifelong and permanent learning are essential features. High flexibility in adapting to situations and achieving desired outcomes is crucial. Integration between technical, social, and ecological systems is prioritized.\u00a0 If exponential developments are detected, the society will appropriately readjust.\u00a0 This is a self-referential, highly dynamic society, representing the Integrate level of AIA society maturing.",
+      "x-multiPerspectiveThinking": true,
+      "x-ideaSystem": true,
+      "x-emergingPhenomena": true,
+      "x-dynamicNetworks": true,
+      "x-selfRepairMechanisms": true,
+      "x-lifelongLearning": true,
+      "x-situationalFlexibility": true,
+      "x-systemsIntegration": true,
+      "x-selfReferential": true
+    }
+  ]
+}
